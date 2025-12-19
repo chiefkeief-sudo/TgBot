@@ -1,0 +1,14 @@
+# ninja log v6
+8	327	7875484278225279	libs/stacktrace/CMakeFiles/boost_stacktrace_noop.dir/src/noop.cpp.obj	23bc04b5326fe736
+16	459	7875484278304220	libs/stacktrace/CMakeFiles/boost_stacktrace_basic.dir/src/basic.cpp.obj	28d43a9f7a9aa70
+328	490	7875484282777619	stage/bin/boost_stacktrace_noop-vc143-mt-x64-1_86.dll	1aaad271251edd49
+328	490	7875484282777619	stage/lib/boost_stacktrace_noop-vc143-mt-x64-1_86.lib	1aaad271251edd49
+459	599	7875484283892909	stage/bin/boost_stacktrace_basic-vc143-mt-x64-1_86.dll	bdf7f20ade1a922a
+459	599	7875484283892909	stage/lib/boost_stacktrace_basic-vc143-mt-x64-1_86.lib	bdf7f20ade1a922a
+27	905	7875484278414585	libs/stacktrace/CMakeFiles/boost_stacktrace_windbg_cached.dir/src/windbg_cached.cpp.obj	2d7c655b637303f6
+21	921	7875484278355342	libs/stacktrace/CMakeFiles/boost_stacktrace_windbg.dir/src/windbg.cpp.obj	38d8d322b758f429
+906	1051	7875484288407740	stage/bin/boost_stacktrace_windbg_cached-vc143-mt-x64-1_86.dll	f525e085dff753d7
+906	1051	7875484288407740	stage/lib/boost_stacktrace_windbg_cached-vc143-mt-x64-1_86.lib	f525e085dff753d7
+922	1056	7875484288470320	stage/bin/boost_stacktrace_windbg-vc143-mt-x64-1_86.dll	9efd896d94b8dee8
+922	1056	7875484288470320	stage/lib/boost_stacktrace_windbg-vc143-mt-x64-1_86.lib	9efd896d94b8dee8
+1057	1568	7875484288711495	CMakeFiles/install.util	75aa6bdef4d1eb4c

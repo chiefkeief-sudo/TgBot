@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/logic/archive/boost-1.86.0.tar.gz -> boostorg-logic-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-logic-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-logic-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-logic/src/ost-1.86.0-90b7b3027a.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/share/boost-logic/copyright
+-- Performing post-build validation

@@ -1,0 +1,10 @@
+# ninja log v6
+16	422	7875496236094106	libs/nowide/CMakeFiles/boost_nowide.dir/src/cstdio.cpp.obj	304ce01e10833b2c
+44	453	7875496236378810	libs/nowide/CMakeFiles/boost_nowide.dir/src/stat.cpp.obj	819cd27ecbdb209e
+6	588	7875496236004088	libs/nowide/CMakeFiles/boost_nowide.dir/src/console_buffer.cpp.obj	8834124be260638
+30	673	7875496236232665	libs/nowide/CMakeFiles/boost_nowide.dir/src/filebuf.cpp.obj	6bdaac932303dca9
+22	826	7875496236164668	libs/nowide/CMakeFiles/boost_nowide.dir/src/cstdlib.cpp.obj	e0ce2b1ef9b2e797
+37	942	7875496236306764	libs/nowide/CMakeFiles/boost_nowide.dir/src/iostream.cpp.obj	cb55d844da56777f
+942	1319	7875496248888676	stage/bin/boost_nowide-vc143-mt-gd-x64-1_86.dll	31585ee49bd219cb
+942	1319	7875496248888676	stage/lib/boost_nowide-vc143-mt-gd-x64-1_86.lib	31585ee49bd219cb
+1320	1663	7875496249138073	CMakeFiles/install.util	4e982d1316f0cc63

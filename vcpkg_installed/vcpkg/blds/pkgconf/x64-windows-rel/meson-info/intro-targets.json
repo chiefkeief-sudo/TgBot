@@ -1,0 +1,207 @@
+[
+  {
+    "name": "pkgconf",
+    "id": "pkgconf@sha",
+    "type": "shared library",
+    "defined_in": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\meson.build",
+    "filename": [
+      "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel\\pkgconf-5.dll"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "c",
+        "compiler": [
+          "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe",
+          "-DWIN32",
+          "-D_WINDOWS",
+          "-utf-8",
+          "-MP",
+          "-MD",
+          "-O2",
+          "-Oi",
+          "-Gy",
+          "-DNDEBUG",
+          "-Z7"
+        ],
+        "parameters": [
+          "-ID:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel\\pkgconf-5.dll.p",
+          "-ID:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel",
+          "-ID:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean",
+          "-ID:\\TelegramBot\\vcpkg_installed\\x64-windows\\include",
+          "/MD",
+          "/nologo",
+          "/showIncludes",
+          "/utf-8",
+          "/W2",
+          "-D_BSD_SOURCE",
+          "-D_DEFAULT_SOURCE",
+          "-nologo",
+          "-DWIN32",
+          "-D_WINDOWS",
+          "-utf-8",
+          "-MP",
+          "-MD",
+          "-O2",
+          "-Oi",
+          "-Gy",
+          "-DNDEBUG",
+          "-Z7",
+          "-DLIBPKGCONF_EXPORT",
+          "-DPKGCONFIG_IS_NOT_STATIC"
+        ],
+        "sources": [
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/argvsplit.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/audit.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/bsdstubs.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/cache.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/client.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/dependency.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/fileio.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/fragment.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/parser.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/path.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/personality.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/pkg.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/queue.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf/tuple.c"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe"
+        ],
+        "parameters": [
+          "-INCREMENTAL:NO",
+          "/release",
+          "/nologo",
+          "/DLL",
+          "/IMPLIB:pkgconf.lib",
+          "-machine:x64",
+          "-nologo",
+          "-DEBUG",
+          "-OPT:REF",
+          "-OPT:ICF",
+          "/LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/lib",
+          "kernel32.lib",
+          "user32.lib",
+          "gdi32.lib",
+          "winspool.lib",
+          "shell32.lib",
+          "ole32.lib",
+          "oleaut32.lib",
+          "uuid.lib",
+          "comdlg32.lib",
+          "advapi32.lib"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [],
+    "depends": [],
+    "installed": true,
+    "install_filename": [
+      "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\pkgs\\pkgconf_x64-windows\\bin\\pkgconf-5.dll"
+    ]
+  },
+  {
+    "name": "pkgconf",
+    "id": "pkgconf@exe",
+    "type": "executable",
+    "defined_in": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\meson.build",
+    "filename": [
+      "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel\\pkgconf.exe"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "c",
+        "compiler": [
+          "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe",
+          "-DWIN32",
+          "-D_WINDOWS",
+          "-utf-8",
+          "-MP",
+          "-MD",
+          "-O2",
+          "-Oi",
+          "-Gy",
+          "-DNDEBUG",
+          "-Z7"
+        ],
+        "parameters": [
+          "-ID:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel\\pkgconf.exe.p",
+          "-ID:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel",
+          "-ID:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean",
+          "-ID:\\TelegramBot\\vcpkg_installed\\x64-windows\\include",
+          "/MD",
+          "/nologo",
+          "/showIncludes",
+          "/utf-8",
+          "/W2",
+          "-D_BSD_SOURCE",
+          "-D_DEFAULT_SOURCE",
+          "-nologo",
+          "-DWIN32",
+          "-D_WINDOWS",
+          "-utf-8",
+          "-MP",
+          "-MD",
+          "-O2",
+          "-Oi",
+          "-Gy",
+          "-DNDEBUG",
+          "-Z7",
+          "-DPKGCONFIG_IS_NOT_STATIC"
+        ],
+        "sources": [
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\cli/main.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\cli/getopt_long.c",
+          "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\cli/renderer-msvc.c"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe"
+        ],
+        "parameters": [
+          "-INCREMENTAL:NO",
+          "/release",
+          "/nologo",
+          "-machine:x64",
+          "-nologo",
+          "-DEBUG",
+          "-OPT:REF",
+          "-OPT:ICF",
+          "/LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/lib",
+          "pkgconf.lib",
+          "/SUBSYSTEM:CONSOLE",
+          "kernel32.lib",
+          "user32.lib",
+          "gdi32.lib",
+          "winspool.lib",
+          "shell32.lib",
+          "ole32.lib",
+          "oleaut32.lib",
+          "uuid.lib",
+          "comdlg32.lib",
+          "advapi32.lib"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\pkgs\\pkgconf_x64-windows\\bin\\pkgconf.exe"
+    ]
+  }
+]

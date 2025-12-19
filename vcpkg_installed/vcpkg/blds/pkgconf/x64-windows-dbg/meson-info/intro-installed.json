@@ -1,0 +1,20 @@
+{
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg\\pkgconf-5.dll": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\bin\\pkgconf-5.dll",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg\\pkgconf.lib": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\lib\\pkgconf.lib",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg\\pkgconf-5.pdb": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\bin\\pkgconf-5.pdb",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg\\pkgconf.exe": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\bin\\pkgconf.exe",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg\\pkgconf.pdb": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\bin\\pkgconf.pdb",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg\\meson-private\\libpkgconf.pc": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\lib\\pkgconfig\\libpkgconf.pc",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\pkg.m4": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/aclocal\\pkg.m4",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\AUTHORS": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/doc/pkgconf\\AUTHORS",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\README.md": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/doc/pkgconf\\README.md",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf\\libpkgconf.h": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\../include\\pkgconf/libpkgconf\\libpkgconf.h",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf\\stdinc.h": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\../include\\pkgconf/libpkgconf\\stdinc.h",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf\\iter.h": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\../include\\pkgconf/libpkgconf\\iter.h",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf\\bsdstubs.h": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\../include\\pkgconf/libpkgconf\\bsdstubs.h",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\libpkgconf\\libpkgconf-api.h": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\../include\\pkgconf/libpkgconf\\libpkgconf-api.h",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\man/pkgconf.1": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/man\\man1\\pkgconf.1",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\man/pkg.m4.7": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/man\\man7\\pkg.m4.7",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\man/pc.5": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/man\\man5\\pc.5",
+  "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\man/pkgconf-personality.5": "D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug\\share/man\\man5\\pkgconf-personality.5"
+}

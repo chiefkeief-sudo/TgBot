@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dep2797688863872",
+    "type": "internal",
+    "version": "2.3.0",
+    "compile_args": [],
+    "link_args": [],
+    "include_directories": [
+      "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\src\\conf-2.3.0-07e4a066bf.clean\\.",
+      "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-rel\\."
+    ],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [
+      "pkgconf@sha"
+    ],
+    "meson_variables": [
+      "dep_libpkgconf"
+    ]
+  }
+]

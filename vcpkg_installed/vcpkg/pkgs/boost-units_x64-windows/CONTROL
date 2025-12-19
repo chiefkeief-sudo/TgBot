@@ -1,0 +1,7 @@
+Package: boost-units
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-integer, boost-io, boost-lambda, boost-math, boost-mpl, boost-preprocessor, boost-static-assert, boost-type-traits, boost-typeof
+Architecture: x64-windows
+Multi-Arch: same
+Abi: cb6c943401e8dd35b80bb0e8eb4610141becbbb516a2e7381dda19798482368b
+Description: Boost units module

@@ -1,0 +1,19 @@
+Downloading https://sqlite.org/2025/sqlite-autoconf-3490000.tar.gz -> sqlite-autoconf-3490000.zip
+Successfully downloaded sqlite-autoconf-3490000.zip
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/sqlite-autoconf-3490000.zip
+-- Applying patch fix-arm-uwp.patch
+-- Applying patch add-config-include.patch
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/sqlite3/src/nf-3490000-29992066d4.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/sqlite3_x64-windows/lib/pkgconfig/sqlite3.pc
+Downloading msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst, trying https://mirror.msys2.org/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+Successfully downloaded msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+Downloading msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst, trying https://mirror.msys2.org/msys/x86_64/msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+Successfully downloaded msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+-- Using msys root at C:/Users/Artem/AppData/Local/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/sqlite3_x64-windows/debug/lib/pkgconfig/sqlite3.pc
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/sqlite3_x64-windows/share/sqlite3/usage
+-- Performing post-build validation

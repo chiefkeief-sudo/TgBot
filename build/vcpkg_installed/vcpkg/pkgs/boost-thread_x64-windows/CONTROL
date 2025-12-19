@@ -1,0 +1,7 @@
+Package: boost-thread
+Version: 1.86.0
+Depends: boost-assert, boost-atomic, boost-bind, boost-chrono, boost-cmake, boost-concept-check, boost-config, boost-container, boost-container-hash, boost-core, boost-date-time, boost-exception, boost-function, boost-headers, boost-io, boost-move, boost-optional, boost-predef, boost-preprocessor, boost-smart-ptr, boost-static-assert, boost-system, boost-throw-exception, boost-tuple, boost-type-traits, boost-utility, boost-winapi
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 1aad377177fc8b0fa4f5380a73f5c4fa5f42cdcc6f09155088157c7c4c9ed551
+Description: Boost thread module

@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/integer/archive/boost-1.86.0.tar.gz -> boostorg-integer-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-integer-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-integer-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-integer/src/ost-1.86.0-8c48ec5bcf.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/share/boost-integer/copyright
+-- Performing post-build validation

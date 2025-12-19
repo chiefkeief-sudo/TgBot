@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/pfr/archive/boost-1.86.0.tar.gz -> boostorg-pfr-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-pfr-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-pfr-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-pfr/src/ost-1.86.0-0db676ee39.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/share/boost-pfr/copyright
+-- Performing post-build validation

@@ -1,0 +1,7 @@
+Package: boost-outcome
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-exception, boost-headers, boost-system, boost-throw-exception
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 880ddbeb3dfabad6c1512e20486b0d8e88688ca4fb02d305eb540fe98948623c
+Description: Boost outcome module

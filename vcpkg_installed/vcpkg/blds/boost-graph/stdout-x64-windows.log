@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/graph/archive/boost-1.86.0.tar.gz -> boostorg-graph-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-graph-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-graph-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-graph/src/ost-1.86.0-f01ed1f895.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-graph_x64-windows/share/boost-graph/copyright
+-- Performing post-build validation

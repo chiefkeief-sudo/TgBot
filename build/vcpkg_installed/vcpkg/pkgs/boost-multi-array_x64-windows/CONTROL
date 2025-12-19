@@ -1,0 +1,7 @@
+Package: boost-multi-array
+Version: 1.86.0
+Depends: boost-array, boost-assert, boost-cmake, boost-concept-check, boost-config, boost-core, boost-functional, boost-headers, boost-iterator, boost-mpl, boost-static-assert, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 85108eb92498ef227abbf630af1604181e54fe0c5f8d28aa04f787183b3bd351
+Description: Boost multi_array module

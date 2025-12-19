@@ -1,0 +1,7 @@
+Package: boost-lambda2
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: df69e143ee609cdd04b7f1151f0695dc43402d20fe2c098678faea7d68ca84d5
+Description: Boost lambda2 module

@@ -1,0 +1,7 @@
+Package: boost-python
+Version: 1.86.0
+Depends: boost-align, boost-bind, boost-cmake, boost-config, boost-conversion, boost-core, boost-detail, boost-foreach, boost-function, boost-graph, boost-headers, boost-integer, boost-iterator, boost-lexical-cast, boost-mpl, boost-numeric-conversion, boost-preprocessor, boost-property-map, boost-smart-ptr, boost-static-assert, boost-tuple, boost-type-traits, boost-utility, python3
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c888f67d0b595a865001fb5e6c4cc5599ac5442dd0ef20b5aae78340e75c7a27
+Description: Boost python module

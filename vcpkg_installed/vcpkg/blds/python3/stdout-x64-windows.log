@@ -1,0 +1,32 @@
+Downloading https://github.com/python/cpython/archive/v3.11.11.tar.gz -> python-cpython-v3.11.11.tar.gz
+Successfully downloaded python-cpython-v3.11.11.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/python-cpython-v3.11.11.tar.gz
+-- Applying patch 0001-only-build-required-projects.patch
+-- Applying patch 0003-use-vcpkg-zlib.patch
+-- Applying patch 0004-devendor-external-dependencies.patch
+-- Applying patch 0005-dont-copy-vcruntime.patch
+-- Applying patch 0008-python.pc.patch
+-- Applying patch 0010-dont-skip-rpath.patch
+-- Applying patch 0012-force-disable-modules.patch
+-- Applying patch 0014-fix-get-python-inc-output.patch
+-- Applying patch 0015-dont-use-WINDOWS-def.patch
+-- Applying patch 0016-undup-ffi-symbols.patch
+-- Applying patch 0018-fix-sysconfig-include.patch
+-- Applying patch 0019-fix-ssl-linkage.patch
+-- Applying patch 0007-workaround-windows-11-sdk-rc-compiler-error.patch
+-- Applying patch 0017-fix-win.patch
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/python3/src/v3.11.11-91f097bc26.clean
+-- Found external ninja('1.12.1').
+-- Getting CMake variables for x64-windows
+-- Building PCbuild/pcbuild.proj for Release
+-- Building PCbuild/pcbuild.proj for Debug
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/lib/pkgconfig/python-3.11-embed.pc
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/lib/pkgconfig/python-3.11.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+-- Using cached msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+-- Using msys root at C:/Users/Artem/AppData/Local/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/debug/lib/pkgconfig/python-3.11-embed.pc
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/debug/lib/pkgconfig/python-3.11.pc
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/share/python3/copyright
+-- Installing cmake wrappers
+-- Performing post-build validation

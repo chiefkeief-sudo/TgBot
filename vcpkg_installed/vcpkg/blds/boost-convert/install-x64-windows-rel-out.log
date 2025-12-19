@@ -1,0 +1,30 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-convert/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-convert\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/charconv.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/char.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/has_member.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/is_callable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/is_fun.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/is_string.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/detail/range.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/lexical_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/parameters.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/printf.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/spirit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/stream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert/strtol.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/convert.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/include/boost/make_default.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/lib/cmake/boost_convert-1.86.0/boost_convert-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/lib/cmake/boost_convert-1.86.0/boost_convert-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-convert_x64-windows/lib/cmake/boost_convert-1.86.0/boost_convert-config-version.cmake
+

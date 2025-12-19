@@ -1,0 +1,7 @@
+Package: boost-xpressive
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-conversion, boost-core, boost-exception, boost-fusion, boost-headers, boost-integer, boost-iterator, boost-lexical-cast, boost-mpl, boost-numeric-conversion, boost-optional, boost-preprocessor, boost-proto, boost-range, boost-smart-ptr, boost-spirit, boost-static-assert, boost-throw-exception, boost-type-traits, boost-typeof, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 5c1c4fab8cde0e851cf3cb3b55f654b07a4b52c064d102523b8fd78e4fc3229b
+Description: Boost xpressive module

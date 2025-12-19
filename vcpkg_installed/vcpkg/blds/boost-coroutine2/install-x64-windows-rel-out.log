@@ -1,0 +1,34 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-coroutine2/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-coroutine2\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/all.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/coroutine.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/coroutine.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/create_control_block.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/decay_copy.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/disable_overload.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/pull_control_block_cc.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/pull_control_block_cc.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/pull_coroutine.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/pull_coroutine.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/push_control_block_cc.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/push_control_block_cc.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/push_coroutine.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/push_coroutine.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/state.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/detail/wrap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/fixedsize_stack.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/pooled_fixedsize_stack.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/protected_fixedsize_stack.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/include/boost/coroutine2/segmented_stack.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/lib/cmake/boost_coroutine2-1.86.0/boost_coroutine2-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/lib/cmake/boost_coroutine2-1.86.0/boost_coroutine2-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-coroutine2_x64-windows/lib/cmake/boost_coroutine2-1.86.0/boost_coroutine2-config-version.cmake
+

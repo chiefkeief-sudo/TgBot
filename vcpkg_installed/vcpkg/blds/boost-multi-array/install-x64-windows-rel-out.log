@@ -1,0 +1,29 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-multi-array/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-multi-array\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/algorithm.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/collection_concept.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/concept_checks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/copy_array.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/extent_gen.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/extent_range.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/index_gen.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/index_range.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/iterator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/multi_array_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/range_list.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/storage_order.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/subarray.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/types.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array/view.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/include/boost/multi_array.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/lib/cmake/boost_multi_array-1.86.0/boost_multi_array-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/lib/cmake/boost_multi_array-1.86.0/boost_multi_array-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-multi-array_x64-windows/lib/cmake/boost_multi_array-1.86.0/boost_multi_array-config-version.cmake
+

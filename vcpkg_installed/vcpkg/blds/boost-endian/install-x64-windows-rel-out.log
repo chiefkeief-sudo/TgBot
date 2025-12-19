@@ -1,0 +1,30 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-endian/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-endian\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/arithmetic.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/buffers.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/conversion.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/disable_warnings.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/disable_warnings_pop.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/endian_load.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/endian_reverse.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/endian_store.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/integral_by_size.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/intrinsic.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/is_integral.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/is_scoped_enum.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/is_trivially_copyable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/order.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/detail/static_assert.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian/endian.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/include/boost/endian.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/lib/cmake/boost_endian-1.86.0/boost_endian-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/lib/cmake/boost_endian-1.86.0/boost_endian-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-endian_x64-windows/lib/cmake/boost_endian-1.86.0/boost_endian-config-version.cmake
+

@@ -1,0 +1,7 @@
+Package: boost-sort
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-core, boost-headers, boost-range, boost-static-assert, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: bdb4b2694e6e3f4ab1cb494ad50f279904a46c1debd6de618373b4319b9b0d7d
+Description: Boost sort module

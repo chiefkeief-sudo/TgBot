@@ -1,0 +1,15 @@
+Downloading https://github.com/libexpat/libexpat/archive/R_2_6_4.tar.gz -> libexpat-libexpat-R_2_6_4.tar.gz
+Successfully downloaded libexpat-libexpat-R_2_6_4.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/libexpat-libexpat-R_2_6_4.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/src/R_2_6_4-2c0a7bb367.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/pkgconfig/expat.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+-- Using cached msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+-- Using msys root at C:/Users/Artem/AppData/Local/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/debug/lib/pkgconfig/expat.pc
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/share/expat/copyright
+-- Performing post-build validation

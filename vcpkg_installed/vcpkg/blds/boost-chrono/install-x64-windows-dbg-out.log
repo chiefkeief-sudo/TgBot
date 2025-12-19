@@ -1,0 +1,81 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-chrono/x64-windows-dbg'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[1/5] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CHRONO_SOURCE -Dboost_chrono_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\src\ost-1.86.0-75da820bf0.clean\libs\chrono\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MDd /Z7 /Ob0 /Od /RTC1  -MDd /showIncludes /Folibs\chrono\CMakeFiles\boost_chrono.dir\src\chrono.cpp.obj /Fdlibs\chrono\CMakeFiles\boost_chrono.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\src\ost-1.86.0-75da820bf0.clean\libs\chrono\src\chrono.cpp
+[2/5] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CHRONO_SOURCE -Dboost_chrono_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\src\ost-1.86.0-75da820bf0.clean\libs\chrono\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MDd /Z7 /Ob0 /Od /RTC1  -MDd /showIncludes /Folibs\chrono\CMakeFiles\boost_chrono.dir\src\thread_clock.cpp.obj /Fdlibs\chrono\CMakeFiles\boost_chrono.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\src\ost-1.86.0-75da820bf0.clean\libs\chrono\src\thread_clock.cpp
+[3/5] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CHRONO_SOURCE -Dboost_chrono_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\src\ost-1.86.0-75da820bf0.clean\libs\chrono\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MDd /Z7 /Ob0 /Od /RTC1  -MDd /showIncludes /Folibs\chrono\CMakeFiles\boost_chrono.dir\src\process_cpu_clocks.cpp.obj /Fdlibs\chrono\CMakeFiles\boost_chrono.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\src\ost-1.86.0-75da820bf0.clean\libs\chrono\src\process_cpu_clocks.cpp
+[4/5] C:\WINDOWS\system32\cmd.exe /C "cd . && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -E vs_link_dll --msvc-ver=1944 --intdir=libs\chrono\CMakeFiles\boost_chrono.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\link.exe  libs\chrono\CMakeFiles\boost_chrono.dir\src\chrono.cpp.obj libs\chrono\CMakeFiles\boost_chrono.dir\src\process_cpu_clocks.cpp.obj libs\chrono\CMakeFiles\boost_chrono.dir\src\thread_clock.cpp.obj  /out:stage\bin\boost_chrono-vc143-mt-gd-x64-1_86.dll /implib:stage\lib\boost_chrono-vc143-mt-gd-x64-1_86.lib /pdb:stage\bin\boost_chrono-vc143-mt-gd-x64-1_86.pdb /dll /version:1.86 /machine:x64 /nologo    /debug /INCREMENTAL  D:\TelegramBot\vcpkg_installed\x64-windows\debug\lib\boost_system-vc143-mt-gd-x64-1_86.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[4/5] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-chrono\x64-windows-dbg && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Debug"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/ceil.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/chrono_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/clock_string.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/mac
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/mac/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/mac/process_cpu_clocks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/mac/thread_clock.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/posix
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/posix/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/posix/process_cpu_clocks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/posix/thread_clock.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/process_cpu_clocks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/thread_clock.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/win
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/win/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/win/process_cpu_clocks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/inlined/win/thread_clock.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/is_evenly_divisible_by.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/no_warning
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/no_warning/signed_unsigned_cmp.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/requires_cxx11.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/scan_keyword.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/static_assert.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/detail/system.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/duration.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/floor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/include.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/duration_get.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/duration_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/duration_put.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/duration_style.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/duration_units.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/ios_base_state.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/timezone.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/time_point_get.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/time_point_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/time_point_put.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/time_point_units.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/utility
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/utility/ios_base_state_ptr.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/utility/manip_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io/utility/to_string.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io_v1
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/io_v1/chrono_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/process_cpu_clocks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/round.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/system_clocks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/thread_clock.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/time_point.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/typeof
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/typeof/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/typeof/boost/chrono
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/typeof/boost/chrono/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono/typeof/boost/ratio.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/include/boost/chrono.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/lib/boost_chrono-vc143-mt-gd-x64-1_86.lib
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/bin/boost_chrono-vc143-mt-gd-x64-1_86.dll
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/bin/boost_chrono-vc143-mt-gd-x64-1_86.pdb
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/lib/cmake/boost_chrono-1.86.0/boost_chrono-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/lib/cmake/boost_chrono-1.86.0/boost_chrono-targets-debug.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/lib/cmake/boost_chrono-1.86.0/boost_chrono-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/debug/lib/cmake/boost_chrono-1.86.0/boost_chrono-config-version.cmake
+

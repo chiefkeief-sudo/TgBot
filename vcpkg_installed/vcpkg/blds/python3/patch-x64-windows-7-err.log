@@ -1,0 +1,5 @@
+Checking patch Lib/distutils/sysconfig.py...
+Hunk #1 succeeded at 43 (offset -2 lines).
+Hunk #2 succeeded at 287 (offset -5 lines).
+Hunk #3 succeeded at 295 (offset -5 lines).
+Applied patch Lib/distutils/sysconfig.py cleanly.

@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/chrono/archive/boost-1.86.0.tar.gz -> boostorg-chrono-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-chrono-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-chrono-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-chrono/src/ost-1.86.0-75da820bf0.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-chrono_x64-windows/share/boost-chrono/copyright
+-- Performing post-build validation

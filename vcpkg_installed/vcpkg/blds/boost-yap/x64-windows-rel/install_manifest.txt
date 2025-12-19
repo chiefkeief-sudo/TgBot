@@ -1,0 +1,12 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/algorithm.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/algorithm_fwd.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/config.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/detail/algorithm.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/detail/transform.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/expression.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/print.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/user_macros.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/include/boost/yap/yap.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/lib/cmake/boost_yap-1.86.0/boost_yap-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/lib/cmake/boost_yap-1.86.0/boost_yap-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/lib/cmake/boost_yap-1.86.0/boost_yap-config-version.cmake

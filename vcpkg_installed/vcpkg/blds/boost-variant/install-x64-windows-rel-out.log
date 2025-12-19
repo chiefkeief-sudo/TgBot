@@ -1,0 +1,49 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-variant/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-variant\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/apply_visitor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/bad_visit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/apply_visitor_binary.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/apply_visitor_delayed.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/apply_visitor_unary.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/backup_holder.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/cast_storage.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/element_index.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/enable_recursive.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/enable_recursive_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/forced_return.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/hash_variant.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/has_result_type.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/initializer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/make_variant_list.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/move.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/multivisitors_cpp11_based.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/multivisitors_cpp14_based.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/over_sequence.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/std_hash.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/substitute.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/substitute_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/variant_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/detail/visitation_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/get.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/multivisitors.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/polymorphic_get.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/recursive_variant.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/recursive_wrapper.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/recursive_wrapper_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/static_visitor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/variant.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/variant_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant/visitor_ptr.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/include/boost/variant.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/lib/cmake/boost_variant-1.86.0/boost_variant-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/lib/cmake/boost_variant-1.86.0/boost_variant-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant_x64-windows/lib/cmake/boost_variant-1.86.0/boost_variant-config-version.cmake
+

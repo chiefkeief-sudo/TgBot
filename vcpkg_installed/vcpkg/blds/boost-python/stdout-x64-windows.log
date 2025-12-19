@@ -1,0 +1,11 @@
+Downloading https://github.com/boostorg/python/archive/boost-1.86.0.tar.gz -> boostorg-python-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-python-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-python-boost-1.86.0.tar.gz
+-- Applying patch remove_undef.diff
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-python/src/ost-1.86.0-b25ee89c79.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-python_x64-windows/share/boost-python/copyright
+-- Performing post-build validation

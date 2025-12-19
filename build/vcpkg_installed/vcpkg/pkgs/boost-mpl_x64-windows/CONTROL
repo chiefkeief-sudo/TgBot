@@ -1,0 +1,7 @@
+Package: boost-mpl
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-core, boost-headers, boost-predef, boost-preprocessor, boost-static-assert, boost-type-traits, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: cfa4840492c1315165f0bf21ca20e1180b09f7dee50e382d572fc1f9069327c5
+Description: Boost mpl module

@@ -1,0 +1,16 @@
+Downloading https://github.com/tukaani-project/xz/archive/v5.6.3.tar.gz -> tukaani-project-xz-v5.6.3.tar.gz
+Successfully downloaded tukaani-project-xz-v5.6.3.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/tukaani-project-xz-v5.6.3.tar.gz
+-- Applying patch build-tools.patch
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/liblzma/src/v5.6.3-90d9062657.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/liblzma_x64-windows/lib/pkgconfig/liblzma.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+-- Using cached msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+-- Using msys root at C:/Users/Artem/AppData/Local/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/liblzma_x64-windows/debug/lib/pkgconfig/liblzma.pc
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/liblzma_x64-windows/share/liblzma/copyright
+-- Performing post-build validation

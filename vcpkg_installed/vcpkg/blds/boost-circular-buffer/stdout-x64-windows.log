@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/circular_buffer/archive/boost-1.86.0.tar.gz -> boostorg-circular_buffer-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-circular_buffer-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-circular_buffer-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-circular-buffer/src/ost-1.86.0-8a53dc03f4.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/share/boost-circular-buffer/copyright
+-- Performing post-build validation

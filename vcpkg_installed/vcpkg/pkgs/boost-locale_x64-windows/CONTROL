@@ -1,0 +1,7 @@
+Package: boost-locale
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-iterator, boost-predef, boost-thread, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 88df45ae096af9814f16982090e6717f7d3b92c36923082c57e47fa3feac92da
+Description: Boost locale module

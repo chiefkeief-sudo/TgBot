@@ -1,0 +1,53 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-pfr/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-pfr\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/core.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/core_name.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core14_classic.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core14_loophole.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core17.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core17_generated.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core_name.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core_name14_disabled.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/core_name20_static.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/detectors.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/fake_object.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/fields_count.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/for_each_field_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/functional.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/make_flat_tuple_of_references.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/make_integer_sequence.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/offset_based_getter.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/possible_reflectable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/rvalue_t.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/sequence_tuple.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/size_array.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/size_t_.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/stdarray.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/stdtuple.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/tie_from_structure_tuple.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/detail/unsafe_declval.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/functions_for.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/functors.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/io_fields.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/ops.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/ops_fields.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/traits_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr/tuple_size.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/include/boost/pfr.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/lib/cmake/boost_pfr-1.86.0/boost_pfr-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/lib/cmake/boost_pfr-1.86.0/boost_pfr-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-pfr_x64-windows/lib/cmake/boost_pfr-1.86.0/boost_pfr-config-version.cmake
+

@@ -1,0 +1,22 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-stl-interfaces/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-stl-interfaces\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/detail/pipeable_view.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/detail/view_closure.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/iterator_interface.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/reverse_iterator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/sequence_container_interface.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/view_adaptor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/include/boost/stl_interfaces/view_interface.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/lib/cmake/boost_stl_interfaces-1.86.0/boost_stl_interfaces-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/lib/cmake/boost_stl_interfaces-1.86.0/boost_stl_interfaces-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/lib/cmake/boost_stl_interfaces-1.86.0/boost_stl_interfaces-config-version.cmake
+

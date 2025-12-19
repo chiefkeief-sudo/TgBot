@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/fiber/archive/boost-1.86.0.tar.gz -> boostorg-fiber-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-fiber-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-fiber-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-fiber/src/ost-1.86.0-c8b6d12951.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-fiber_x64-windows/share/boost-fiber/copyright
+-- Performing post-build validation

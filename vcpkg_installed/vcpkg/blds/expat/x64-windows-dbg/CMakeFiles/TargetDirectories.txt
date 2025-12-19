@@ -1,0 +1,8 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/expat.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/package.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/package_source.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/edit_cache.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/list_install_components.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/install.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/expat/x64-windows-dbg/CMakeFiles/install/local.dir

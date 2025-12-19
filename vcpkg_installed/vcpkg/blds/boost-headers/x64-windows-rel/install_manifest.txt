@@ -1,0 +1,4 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-headers_x64-windows/include/boost/headers/.gitkeep
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-headers_x64-windows/lib/cmake/boost_headers-1.86.0/boost_headers-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-headers_x64-windows/lib/cmake/boost_headers-1.86.0/boost_headers-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-headers_x64-windows/lib/cmake/boost_headers-1.86.0/boost_headers-config-version.cmake

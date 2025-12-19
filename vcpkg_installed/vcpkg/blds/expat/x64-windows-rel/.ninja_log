@@ -1,0 +1,8 @@
+# ninja log v6
+23	96	7875491792510803	CMakeFiles/expat.dir/win32/version.rc.res	7240c36aeb7ce17d
+14	223	7875491792416669	CMakeFiles/expat.dir/lib/xmlrole.c.obj	84f5abdccf6e0346
+18	505	7875491792457895	CMakeFiles/expat.dir/lib/xmltok.c.obj	a046847808a3210
+6	1117	7875491792336212	CMakeFiles/expat.dir/lib/xmlparse.c.obj	76f2674d3cd462f7
+1117	1351	7875491805558103	libexpat.dll	ad5665f896d72c94
+1117	1351	7875491805558103	libexpat.lib	ad5665f896d72c94
+1351	1465	7875491805789677	CMakeFiles/install.util	f07d4368f128f1ac

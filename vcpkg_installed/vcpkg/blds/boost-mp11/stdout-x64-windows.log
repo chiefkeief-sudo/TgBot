@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/mp11/archive/boost-1.86.0.tar.gz -> boostorg-mp11-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-mp11-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-mp11-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-mp11/src/ost-1.86.0-93cf4ea149.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-mp11_x64-windows/share/boost-mp11/copyright
+-- Performing post-build validation

@@ -1,0 +1,7 @@
+Package: boost-vmd
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers, boost-preprocessor
+Architecture: x64-windows
+Multi-Arch: same
+Abi: a5f44af39d21a389206875691af9722308452fe913bedae5ed7e03b36bddc500
+Description: Boost vmd module

@@ -1,0 +1,7 @@
+Package: boost-convert
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-core, boost-function-types, boost-headers, boost-lexical-cast, boost-math, boost-mpl, boost-optional, boost-parameter, boost-range, boost-spirit, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f6a9c8b0aa3b2ade5917d5f8ed7a91bce64c628d3b637d0b566fcba0e53c2be8
+Description: Boost convert module

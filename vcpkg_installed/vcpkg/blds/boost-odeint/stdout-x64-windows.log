@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/odeint/archive/boost-1.86.0.tar.gz -> boostorg-odeint-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-odeint-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-odeint-boost-1.86.0.tar.gz
+-- Applying patch opt-mpi.diff
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-odeint/src/ost-1.86.0-188550a2a1.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-odeint_x64-windows/share/boost-odeint/copyright
+-- Performing post-build validation

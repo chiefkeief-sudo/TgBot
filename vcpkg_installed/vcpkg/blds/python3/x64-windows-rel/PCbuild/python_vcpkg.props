@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemDefinitionGroup>
+    <CLCompile>
+      <!-- Use vcpkg ports instead of vendored externals -->
+      <PreprocessorDefinitions>_Py_HAVE_ZLIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions Condition="dynamic == 'static'">XML_STATIC;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>
+        %(AdditionalIncludeDirectories);D:/TelegramBot/vcpkg_installed/x64-windows/include
+      </AdditionalIncludeDirectories>
+    </CLCompile>
+    <Link>
+      <!-- Required Libs -->
+      <AdditionalDependencies Condition="'$(Configuration)'=='Release'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/lib/zlib.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+      <AdditionalDependencies Condition="'$(Configuration)'=='Debug'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/zlibd.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+
+      <!-- Extension modules -->
+      <AdditionalDependencies Condition="'$(Configuration)|$(IncludeExtensions)' == 'Release|true'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/lib/bz2.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/libexpat.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/ffi.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/lzma.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/sqlite3.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+      <AdditionalDependencies Condition="'$(Configuration)|$(IncludeExtensions)' == 'Debug|true'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/bz2d.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/libexpatd.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/ffi.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/lzma.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/sqlite3.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+    </Link>
+
+    <Lib>
+      <!-- Required to prevent linker errors on Visual Studio 2017 with static CRT -->
+      <TargetMachine Condition="'x64'=='x86'">MachineX86</TargetMachine>
+      <TargetMachine Condition="'x64'=='x64'">MachineX64</TargetMachine>
+      <TargetMachine Condition="'x64'=='arm'">MachineARM</TargetMachine>
+      <!-- Required Libs -->
+      <AdditionalDependencies Condition="'$(Configuration)'=='Release'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/lib/zlib.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+      <AdditionalDependencies Condition="'$(Configuration)'=='Debug'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/zlibd.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+
+      <!-- Extension modules -->
+      <AdditionalDependencies Condition="'$(Configuration)|$(IncludeExtensions)' == 'Release|true'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/lib/bz2.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/libexpat.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/ffi.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/lzma.lib;D:/TelegramBot/vcpkg_installed/x64-windows/lib/sqlite3.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+      <AdditionalDependencies Condition="'$(Configuration)|$(IncludeExtensions)' == 'Debug|true'">
+        D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/bz2d.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/libexpatd.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/ffi.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/lzma.lib;D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/sqlite3.lib;%(AdditionalDependencies)
+      </AdditionalDependencies>
+    </Lib>
+  </ItemDefinitionGroup>
+</Project>

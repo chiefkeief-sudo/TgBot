@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/redis/archive/boost-1.86.0.tar.gz -> boostorg-redis-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-redis-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-redis-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-redis/src/ost-1.86.0-1cab5b728b.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/share/boost-redis/copyright
+-- Performing post-build validation

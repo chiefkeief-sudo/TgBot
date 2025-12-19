@@ -1,0 +1,49 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-uuid/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-uuid\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/basic_name_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/basic_random_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/basic_name_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/chacha20.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/endian.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/hash_mix.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/md5.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/numeric_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/random_device.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/random_provider.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/sha1.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/static_assert.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/to_chars.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/uuid_generic.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/uuid_uint128.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/detail/uuid_x86.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/entropy_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/namespaces.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/name_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/name_generator_md5.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/name_generator_sha1.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/nil_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/random_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/string_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/time_generator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/time_generator_v1.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/time_generator_v6.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/time_generator_v7.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/uuid.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/uuid_clock.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/uuid_generators.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/uuid_hash.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/uuid_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid/uuid_serialize.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/include/boost/uuid.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/lib/cmake/boost_uuid-1.86.0/boost_uuid-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/lib/cmake/boost_uuid-1.86.0/boost_uuid-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/lib/cmake/boost_uuid-1.86.0/boost_uuid-config-version.cmake
+

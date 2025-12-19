@@ -1,0 +1,38 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-leaf/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-leaf\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/capture.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/common.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config/tls.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config/tls_array.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config/tls_cpp11.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config/tls_freertos.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config/tls_globals.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/context.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/all.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/capture_list.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/demangle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/function_traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/mp11.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/optional.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/detail/print.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/exception.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/handle_errors.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/on_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/pred.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/result.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf/to_variant.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/include/boost/leaf.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/lib/cmake/boost_leaf-1.86.0/boost_leaf-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/lib/cmake/boost_leaf-1.86.0/boost_leaf-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/lib/cmake/boost_leaf-1.86.0/boost_leaf-config-version.cmake
+

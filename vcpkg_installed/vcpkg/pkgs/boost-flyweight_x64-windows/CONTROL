@@ -1,0 +1,7 @@
+Package: boost-flyweight
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-container-hash, boost-core, boost-detail, boost-headers, boost-interprocess, boost-mpl, boost-multi-index, boost-parameter, boost-preprocessor, boost-smart-ptr, boost-throw-exception, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2286038a0c4eb01a26f3fa5057833468c2525e4ce12ab76174e562acb85ac2fc
+Description: Boost flyweight module

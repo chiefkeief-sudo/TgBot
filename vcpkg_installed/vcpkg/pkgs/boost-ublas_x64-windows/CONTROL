@@ -1,0 +1,7 @@
+Package: boost-ublas
+Version: 1.86.0
+Depends: boost-cmake, boost-compute, boost-concept-check, boost-config, boost-core, boost-headers, boost-interval, boost-iterator, boost-mpl, boost-range, boost-serialization, boost-smart-ptr, boost-static-assert, boost-type-traits, boost-typeof
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0f7d3752a91a765640ba017e44af3fb551ea52789375f03e0b68dac28ea9c895
+Description: Boost ublas module

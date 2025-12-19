@@ -1,0 +1,43 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-statechart/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-statechart\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/asynchronous_state_machine.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/custom_reaction.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/deep_history.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/deferral.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/avoid_unused_warning.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/constructor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/counted_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/leaf_state.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/memory.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/node_state.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/reaction_dispatcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/rtti_policy.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/detail/state_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/event.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/event_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/event_processor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/exception_translator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/fifo_scheduler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/fifo_worker.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/history.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/in_state_reaction.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/null_exception_translator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/processor_container.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/result.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/shallow_history.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/simple_state.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/state.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/state_machine.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/termination.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/include/boost/statechart/transition.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/lib/cmake/boost_statechart-1.86.0/boost_statechart-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/lib/cmake/boost_statechart-1.86.0/boost_statechart-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-statechart_x64-windows/lib/cmake/boost_statechart-1.86.0/boost_statechart-config-version.cmake
+

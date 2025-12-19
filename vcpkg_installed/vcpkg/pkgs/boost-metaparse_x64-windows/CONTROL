@@ -1,0 +1,7 @@
+Package: boost-metaparse
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers, boost-mpl, boost-predef, boost-preprocessor, boost-static-assert, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c472890d38711e54be3aa3ecb9b43b6052ba74bdaab813cf8db59cdbbaa90b4b
+Description: Boost metaparse module

@@ -1,0 +1,40 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-safe-numerics/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-safe-numerics\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/automatic.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/checked_default.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/checked_float.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/checked_integer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/checked_result.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/checked_result_operations.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/CMakeLists.txt
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept/CMakeLists.txt
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept/exception_policy.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept/integer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept/numeric.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept/promotion_policy.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/concept/safe_numeric.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/cpp.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/exception.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/exception_policies.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/interval.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/native.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/range_value.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_base_operations.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_common.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_compare.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_integer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_integer_literal.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/safe_integer_range.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/include/boost/safe_numerics/utility.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/lib/cmake/boost_safe_numerics-1.86.0/boost_safe_numerics-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/lib/cmake/boost_safe_numerics-1.86.0/boost_safe_numerics-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/lib/cmake/boost_safe_numerics-1.86.0/boost_safe_numerics-config-version.cmake
+

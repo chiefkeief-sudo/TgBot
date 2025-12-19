@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/leaf/archive/boost-1.86.0.tar.gz -> boostorg-leaf-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-leaf-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-leaf-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-leaf/src/ost-1.86.0-606ec4b5eb.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-leaf_x64-windows/share/boost-leaf/copyright
+-- Performing post-build validation

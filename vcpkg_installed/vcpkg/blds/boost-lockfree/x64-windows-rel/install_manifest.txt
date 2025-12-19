@@ -1,0 +1,16 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/atomic.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/copy_payload.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/freelist.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/parameter.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/prefix.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/tagged_ptr.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/tagged_ptr_dcas.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/detail/tagged_ptr_ptrcompression.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/lockfree_forward.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/policies.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/queue.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/spsc_queue.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/include/boost/lockfree/stack.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/lib/cmake/boost_lockfree-1.86.0/boost_lockfree-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/lib/cmake/boost_lockfree-1.86.0/boost_lockfree-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lockfree_x64-windows/lib/cmake/boost_lockfree-1.86.0/boost_lockfree-config-version.cmake

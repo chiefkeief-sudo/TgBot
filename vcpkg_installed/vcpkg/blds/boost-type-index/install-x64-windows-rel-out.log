@@ -1,0 +1,29 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-type-index/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-type-index\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/ctti_type_index.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/detail/compile_time_type_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/detail/ctti_register_class.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/detail/stl_register_class.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/boost_shared_ptr_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/detail/runtime_cast_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/pointer_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/reference_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/register_runtime_class.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast/std_shared_ptr_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/runtime_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/stl_type_index.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index/type_index_facade.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/include/boost/type_index.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/lib/cmake/boost_type_index-1.86.0/boost_type_index-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/lib/cmake/boost_type_index-1.86.0/boost_type_index-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-type-index_x64-windows/lib/cmake/boost_type_index-1.86.0/boost_type_index-config-version.cmake
+

@@ -1,0 +1,124 @@
+Makefile:666: update target 'fficonfig.h' due to: stamp-h1
+test -f fficonfig.h || rm -f stamp-h1
+test -f fficonfig.h || /usr/bin/make  stamp-h1
+Makefile:627: update target 'all' due to: target is .PHONY
+/usr/bin/make  all-recursive
+make[1]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg'
+Makefile:1414: update target 'all-recursive' due to: target is .PHONY
+fail=; \
+if (target_option=k; case ${target_option-} in ?) ;; *) echo "am__make_running_with_option: internal error: invalid" "target option '${target_option-}' specified" >&2; exit 1;; esac; has_opt=no; sane_makeflags=$MAKEFLAGS; if { if test -z '1'; then false; elif test -n 'x86_64-pc-msys'; then true; elif test -n '4.4.1' && test -n '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg'; then true; else false; fi; }; then sane_makeflags=$MFLAGS; else case $MAKEFLAGS in *\\[\ \	]*) bs=\\; sane_makeflags=`printf '%s\n' "$MAKEFLAGS" | sed "s/$bs$bs[$bs $bs	]*//g"`;; esac; fi; skip_next=no; strip_trailopt () { flg=`printf '%s\n' "$flg" | sed "s/$1.*$//"`; }; for flg in $sane_makeflags; do test $skip_next = yes && { skip_next=no; continue; }; case $flg in *=*|--*) continue;; -*I) strip_trailopt 'I'; skip_next=yes;; -*I?*) strip_trailopt 'I';; -*O) strip_trailopt 'O'; skip_next=yes;; -*O?*) strip_trailopt 'O';; -*l) strip_trailopt 'l'; skip_next=yes;; -*l?*) strip_trailopt 'l';; -[dEDm]) skip_next=yes;; -[JT]) skip_next=yes;; esac; case $flg in *$target_option*) has_opt=yes; break;; esac; done; test $has_opt = yes); then \
+  failcom='fail=yes'; \
+else \
+  failcom='exit 1'; \
+fi; \
+dot_seen=no; \
+target=`echo all-recursive | sed s/-recursive//`; \
+case "all-recursive" in \
+  distclean-* | maintainer-clean-*) list='include testsuite man doc' ;; \
+  *) list='include testsuite man ' ;; \
+esac; \
+for subdir in $list; do \
+  echo "Making $target in $subdir"; \
+  if test "$subdir" = "."; then \
+    dot_seen=yes; \
+    local_target="$target-am"; \
+  else \
+    local_target="$target"; \
+  fi; \
+  (CDPATH="${ZSH_VERSION+.}:" && cd $subdir && /usr/bin/make  $local_target) \
+  || eval $failcom; \
+done; \
+if test "$dot_seen" = "no"; then \
+  /usr/bin/make  "$target-am" || exit 1; \
+fi; test -z "$fail"
+Making all in include
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg/include'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg/include'
+Making all in testsuite
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg/testsuite'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg/testsuite'
+Making all in man
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg/man'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg/man'
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg'
+Makefile:728: update target 'src/.dirstamp' due to: target does not exist
+/usr/bin/mkdir -p src
+Makefile:731: update target 'src/.deps/.dirstamp' due to: target does not exist
+/usr/bin/mkdir -p src/.deps
+: > src/.dirstamp
+: > src/.deps/.dirstamp
+Makefile:1053: update target 'src/x86/.dirstamp' due to: target does not exist
+/usr/bin/mkdir -p src/x86
+Makefile:1056: update target 'src/x86/.deps/.dirstamp' due to: target does not exist
+/usr/bin/mkdir -p src/x86/.deps
+: > src/x86/.deps/.dirstamp
+: > src/x86/.dirstamp
+Makefile:666: update target 'fficonfig.h' due to: stamp-h1
+test -f fficonfig.h || rm -f stamp-h1
+Makefile:1339: update target 'src/prep_cif.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/prep_cif.c' object='src/prep_cif.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/prep_cif.lo ./../src/libffi-3-5867c437e9.clean/src/prep_cif.c
+Makefile:1339: update target 'src/types.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/types.c' object='src/types.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/types.lo ./../src/libffi-3-5867c437e9.clean/src/types.c
+Makefile:1339: update target 'src/raw_api.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/raw_api.c' object='src/raw_api.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/raw_api.lo ./../src/libffi-3-5867c437e9.clean/src/raw_api.c
+Makefile:1339: update target 'src/java_raw_api.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/java_raw_api.c' object='src/java_raw_api.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/java_raw_api.lo ./../src/libffi-3-5867c437e9.clean/src/java_raw_api.c
+Makefile:1339: update target 'src/closures.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/closures.c' object='src/closures.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/closures.lo ./../src/libffi-3-5867c437e9.clean/src/closures.c
+Makefile:1339: update target 'src/tramp.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/tramp.c' object='src/tramp.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/tramp.lo ./../src/libffi-3-5867c437e9.clean/src/tramp.c
+Makefile:1339: update target 'src/x86/ffiw64.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/x86/ffiw64.c' object='src/x86/ffiw64.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/x86/ffiw64.lo ./../src/libffi-3-5867c437e9.clean/src/x86/ffiw64.c
+Makefile:1315: update target 'src/x86/win64_intel.lo' due to: target does not exist
+source='./../src/libffi-3-5867c437e9.clean/src/x86/win64_intel.S' object='src/x86/win64_intel.lo' libtool=yes \
+DEPDIR=.deps depmode=none /bin/sh ./../src/libffi-3-5867c437e9.clean/depcomp \
+/bin/sh ./libtool  --tag=CC   --mode=compile msvcc.sh -m64 -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean  -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -c -o src/x86/win64_intel.lo ./../src/libffi-3-5867c437e9.clean/src/x86/win64_intel.S
+test -f fficonfig.h || /usr/bin/make  stamp-h1
+libtool: compile:  msvcc.sh -m64 -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -D_WINDOWS -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -I./../src/libffi-3-5867c437e9.clean/src -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/x86/win64_intel.S  -DDLL_EXPORT -DPIC -o src/x86/.libs/win64_intel.obj
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/java_raw_api.c  -DDLL_EXPORT -DPIC -o src/.libs/java_raw_api.obj
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/raw_api.c  -DDLL_EXPORT -DPIC -o src/.libs/raw_api.obj
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/closures.c  -DDLL_EXPORT -DPIC -o src/.libs/closures.obj
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/prep_cif.c  -DDLL_EXPORT -DPIC -o src/.libs/prep_cif.obj
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/types.c  -DDLL_EXPORT -DPIC -o src/.libs/types.obj
+prep_cif.c
+java_raw_api.c
+closures.c
+raw_api.c
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/x86/ffiw64.c  -DDLL_EXPORT -DPIC -o src/x86/.libs/ffiw64.obj
+libtool: compile:  compile cl.exe -DHAVE_CONFIG_H -I. -I./../src/libffi-3-5867c437e9.clean -I. -I./../src/libffi-3-5867c437e9.clean/include -Iinclude -I./../src/libffi-3-5867c437e9.clean/src -DWIN32 -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -D_WINDOWS -DFFI_BUILDING_DLL -c ./../src/libffi-3-5867c437e9.clean/src/tramp.c  -DDLL_EXPORT -DPIC -o src/.libs/tramp.obj
+types.c
+tramp.c
+ffiw64.c
+ Assembling: src/x86/.libs/win64_intel.asm
+Makefile:1117: update target 'libffi_convenience.la' due to: target does not exist
+/bin/sh ./libtool  --tag=CC   --mode=link compile cl.exe  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL  -Xlinker -Xlinker -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib -Xlinker -Xlinker -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/manual-link -Xlinker -Xlinker -Xlinker -machine:x64 -Xlinker -Xlinker -Xlinker -nologo -Xlinker -Xlinker -Xlinker -debug -Xlinker -Xlinker -Xlinker -INCREMENTAL -o libffi_convenience.la  src/prep_cif.lo src/types.lo src/raw_api.lo src/java_raw_api.lo src/closures.lo src/tramp.lo   src/x86/ffiw64.lo src/x86/win64_intel.lo -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -lcomdlg32 -ladvapi32
+Makefile:1114: update target 'libffi.la' due to: target does not exist
+/bin/sh ./libtool  --tag=CC   --mode=link compile cl.exe  -Xcompiler -nologo -Xcompiler -utf-8 -Xcompiler -MP -Xcompiler -MDd -Xcompiler -Z7 -Xcompiler -Ob0 -Xcompiler -Od -Xcompiler -RTC1 -DFFI_BUILDING_DLL -no-undefined -version-info `grep -v '^#' ./../src/libffi-3-5867c437e9.clean/libtool-version`   '-Xlinker' '-Xlinker' '-Xlinker' '-LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib' '-Xlinker' '-Xlinker' '-Xlinker' '-LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/manual-link' '-Xlinker' '-Xlinker' '-Xlinker' '-machine:x64' '-Xlinker' '-Xlinker' '-Xlinker' '-nologo' '-Xlinker' '-Xlinker' '-Xlinker' '-debug' '-Xlinker' '-Xlinker' '-Xlinker' '-INCREMENTAL' -no-undefined -Xlinker -Xlinker -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib -Xlinker -Xlinker -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/manual-link -Xlinker -Xlinker -Xlinker -machine:x64 -Xlinker -Xlinker -Xlinker -nologo -Xlinker -Xlinker -Xlinker -debug -Xlinker -Xlinker -Xlinker -INCREMENTAL -o libffi.la -rpath /D/TelegramBot/vcpkg_installed/x64-windows/debug/lib src/prep_cif.lo src/types.lo src/raw_api.lo src/java_raw_api.lo src/closures.lo src/tramp.lo  src/x86/ffiw64.lo src/x86/win64_intel.lo -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -lcomdlg32 -ladvapi32
+libtool: link: ar-lib lib.exe cr .libs/ffi_convenience.lib src/.libs/prep_cif.obj src/.libs/types.obj src/.libs/raw_api.obj src/.libs/java_raw_api.obj src/.libs/closures.obj src/.libs/tramp.obj src/x86/.libs/ffiw64.obj src/x86/.libs/win64_intel.obj 
+libtool: link: : .libs/ffi_convenience.lib
+libtool: link: ( cd ".libs" && rm -f "libffi_convenience.la" && cp -pR "../libffi_convenience.la" "libffi_convenience.la" )
+libtool: link: dumpbin.exe -symbols -headers  src/.libs/prep_cif.obj src/.libs/types.obj src/.libs/raw_api.obj src/.libs/java_raw_api.obj src/.libs/closures.obj src/.libs/tramp.obj src/x86/.libs/ffiw64.obj src/x86/.libs/win64_intel.obj   | gawk '     {last_section=section; section=$ 3};     /^COFF SYMBOL TABLE/{for(i in hide) delete hide[i]};     /Section length .*#relocs.*(pick any)/{hide[last_section]=1};     /^ *Symbol name *: /{split($ 0,sn,":"); si=substr(sn[2],2)};     /^ *Type *: code/{print "T",si,substr(si,length(prfx))};     /^ *Type *: data/{print "I",si,substr(si,length(prfx))};     $ 0!~/External *\|/{next};     / 0+ UNDEF /{next}; / UNDEF \([^|]\)*()/{next};     {if(hide[section]) next};     {f="D"}; $ 0~/\(\).*\|/{f="T"};     {split($ 0,a,/\||\r/); split(a[2],s)};     s[1]~/^[@?]/{print f,s[1],s[1]; next};     s[1]~prfx {split(s[1],t,"@"); print f,t[1],substr(t[1],length(prfx))}     ' prfx=^ | /usr/bin/sed '/ __gnu_lto/d' | /usr/bin/sed -e '/^[BCDGRS][ ]/s/.*[ ]\([^ ]*\)/\1,DATA/' | /usr/bin/sed -e '/^[AITW][ ]/s/.*[ ]//' | sort | uniq > .libs/ffi.exp
+libtool: link: if test DEF = "`/usr/bin/sed -n -e 's/^[	 ]*//' -e '/^\(;.*\)*$/d' -e 's/^\(EXPORTS\|LIBRARY\)\([	 ].*\)*$/DEF/p' -e q .libs/ffi.exp`" ; then cp ".libs/ffi.exp" ".libs/ffi-8.dll.def"; echo ".libs\\ffi-8.dll.def" > ".libs/ffi-8.dll.exp"; else /usr/bin/sed -e 's/^/-link -EXPORT:/' < .libs/ffi.exp > .libs/ffi-8.dll.exp; fi
+libtool: link:  compile cl.exe -o .libs\\ffi-8.dll  src/.libs/prep_cif.obj src/.libs/types.obj src/.libs/raw_api.obj src/.libs/java_raw_api.obj src/.libs/closures.obj src/.libs/tramp.obj src/x86/.libs/ffiw64.obj src/x86/.libs/win64_intel.obj   -nologo -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/manual-link -Xlinker -machine:x64 -Xlinker -nologo -Xlinker -debug -Xlinker -INCREMENTAL -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib -Xlinker -LIBPATH:D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/manual-link -Xlinker -machine:x64 -Xlinker -nologo -Xlinker -debug -Xlinker -INCREMENTAL    -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -lcomdlg32 -ladvapi32 "@.libs\\ffi-8.dll.exp" -Wl,-DLL,-IMPLIB:".libs\\ffi.lib"
+   Создается библиотека .libs\ffi.lib и объект .libs\ffi.exp
+libtool: link:  linknames=
+libtool: link: ( cd ".libs" && rm -f "libffi.la" && cp -pR "../libffi.la" "libffi.la" )
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg'
+make[1]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-dbg'

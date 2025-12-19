@@ -1,0 +1,4 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-crc_x64-windows/include/boost/crc.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-crc_x64-windows/lib/cmake/boost_crc-1.86.0/boost_crc-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-crc_x64-windows/lib/cmake/boost_crc-1.86.0/boost_crc-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-crc_x64-windows/lib/cmake/boost_crc-1.86.0/boost_crc-config-version.cmake

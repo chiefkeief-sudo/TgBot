@@ -1,0 +1,16 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-static-string/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/2] D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-static-string\x64-windows-rel\CMakeFiles\VerifyGlobs.cmake
+[0/2] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-static-string\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/include/boost/static_string
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/include/boost/static_string/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/include/boost/static_string/static_string.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/include/boost/static_string.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/lib/cmake/boost_static_string-1.86.0/boost_static_string-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/lib/cmake/boost_static_string-1.86.0/boost_static_string-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-string_x64-windows/lib/cmake/boost_static_string-1.86.0/boost_static_string-config-version.cmake
+

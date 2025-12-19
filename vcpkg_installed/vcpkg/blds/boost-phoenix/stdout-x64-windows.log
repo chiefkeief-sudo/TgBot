@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/phoenix/archive/boost-1.86.0.tar.gz -> boostorg-phoenix-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-phoenix-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-phoenix-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-phoenix/src/ost-1.86.0-a2bf447286.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-phoenix_x64-windows/share/boost-phoenix/copyright
+-- Performing post-build validation

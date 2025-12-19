@@ -1,0 +1,12 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/include/boost/progress.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/include/boost/timer/config.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/include/boost/timer/progress_display.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/include/boost/timer/timer.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/include/boost/timer.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/lib/boost_timer-vc143-mt-gd-x64-1_86.lib
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/bin/boost_timer-vc143-mt-gd-x64-1_86.dll
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/bin/boost_timer-vc143-mt-gd-x64-1_86.pdb
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/lib/cmake/boost_timer-1.86.0/boost_timer-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/lib/cmake/boost_timer-1.86.0/boost_timer-targets-debug.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/lib/cmake/boost_timer-1.86.0/boost_timer-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/debug/lib/cmake/boost_timer-1.86.0/boost_timer-config-version.cmake

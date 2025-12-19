@@ -1,0 +1,7 @@
+Package: boost-icl
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-concept-check, boost-config, boost-container, boost-core, boost-date-time, boost-detail, boost-headers, boost-iterator, boost-move, boost-mpl, boost-range, boost-rational, boost-static-assert, boost-type-traits, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e98b6754bf3bd6760e94f5c45aaf0f5b4cc55538e963d1eb4e76f4235377bbda
+Description: Boost icl module

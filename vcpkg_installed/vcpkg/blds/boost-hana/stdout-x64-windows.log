@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/hana/archive/boost-1.86.0.tar.gz -> boostorg-hana-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-hana-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-hana-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-hana/src/ost-1.86.0-24f8076380.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-hana_x64-windows/share/boost-hana/copyright
+-- Performing post-build validation

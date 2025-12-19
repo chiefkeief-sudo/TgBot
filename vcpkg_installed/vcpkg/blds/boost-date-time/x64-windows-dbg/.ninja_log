@@ -1,0 +1,5 @@
+# ninja log v6
+9	75	7875480706399563	libs/date_time/CMakeFiles/boost_date_time.dir/src/gregorian/greg_month.cpp.obj	4faff959657ad153
+77	359	7875480709649767	stage/bin/boost_date_time-vc143-mt-gd-x64-1_86.dll	fbb5da37f4b90767
+77	359	7875480709649767	stage/lib/boost_date_time-vc143-mt-gd-x64-1_86.lib	fbb5da37f4b90767
+360	1758	7875480709903020	CMakeFiles/install.util	1f7e99b8d1fbfede

@@ -1,0 +1,7 @@
+Package: boost-nowide
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-filesystem, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: a8d09f4daa8d4bf21ea0ad9d69980dd4a678fecf4c148924c10bbbfe26171232
+Description: Boost nowide module

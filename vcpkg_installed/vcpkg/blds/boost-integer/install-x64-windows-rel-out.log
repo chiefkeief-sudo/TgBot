@@ -1,0 +1,26 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-integer/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-integer\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/common_factor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/common_factor_ct.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/common_factor_rt.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/extended_euclidean.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/integer_log2.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/integer_mask.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/mod_inverse.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/static_log2.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/static_min_max.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer_traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/pending
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/include/boost/pending/integer_log2.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/lib/cmake/boost_integer-1.86.0/boost_integer-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/lib/cmake/boost_integer-1.86.0/boost_integer-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-integer_x64-windows/lib/cmake/boost_integer-1.86.0/boost_integer-config-version.cmake
+

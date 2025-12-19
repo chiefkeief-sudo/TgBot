@@ -1,0 +1,14 @@
+# ninja log v6
+58	1422	7875481971858273	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/utf8_codecvt_facet.cpp.obj	b490867485105ebf
+9	1471	7875481971375027	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/codecvt_error_category.cpp.obj	b987f30a97cd630d
+17	1705	7875481971453479	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/exception.cpp.obj	bbf104dd535ca57a
+46	1730	7875481971740468	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/portability.cpp.obj	39778f8ae3f5ec44
+40	1747	7875481971671074	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/path_traits.cpp.obj	b93b483707946edf
+52	1984	7875481971794797	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/unique_path.cpp.obj	4d5368b7c1554901
+34	1999	7875481971613847	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/path.cpp.obj	3a0aa5ff5481d35f
+28	2176	7875481971553521	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/directory.cpp.obj	c41e188f2c48c369
+22	2245	7875481971503497	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/operations.cpp.obj	a8984ce7800537b4
+1452	2403	7875481985795546	libs/filesystem/CMakeFiles/boost_filesystem.dir/src/windows_file_codecvt.cpp.obj	647cd89abb7cdd0
+2403	2863	7875481999305047	stage/bin/boost_filesystem-vc143-mt-gd-x64-1_86.dll	ea413d2796626996
+2403	2863	7875481999305047	stage/lib/boost_filesystem-vc143-mt-gd-x64-1_86.lib	ea413d2796626996
+2863	3180	7875481999908924	CMakeFiles/install.util	385e08bbe01a229

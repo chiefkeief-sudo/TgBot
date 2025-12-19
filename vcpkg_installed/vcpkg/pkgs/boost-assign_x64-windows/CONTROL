@@ -1,0 +1,7 @@
+Package: boost-assign
+Version: 1.86.0
+Depends: boost-array, boost-cmake, boost-config, boost-core, boost-headers, boost-move, boost-preprocessor, boost-ptr-container, boost-range, boost-static-assert, boost-throw-exception, boost-tuple, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6a1d621e20bd797f917f0f389304d33dc979347d71b5edbe6a35d87281e5677b
+Description: Boost assign module

@@ -1,0 +1,7 @@
+Package: boost-bimap
+Version: 1.86.0
+Depends: boost-cmake, boost-concept-check, boost-config, boost-container-hash, boost-core, boost-headers, boost-iterator, boost-lambda, boost-mpl, boost-multi-index, boost-preprocessor, boost-static-assert, boost-throw-exception, boost-type-traits, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: a41da0cef173c799253d14328f64f838baa1c6437fd6f006a31cbbd78636b89f
+Description: Boost bimap module

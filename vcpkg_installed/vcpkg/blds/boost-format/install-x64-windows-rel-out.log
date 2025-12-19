@@ -1,0 +1,32 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-format/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-format\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/alt_sstream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/alt_sstream_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail/compat_workarounds.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail/config_macros.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail/msvc_disambiguater.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail/unset_macros.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail/workarounds_gcc-2_95.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/detail/workarounds_stlport.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/exceptions.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/feed_args.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/format_class.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/format_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/format_implementation.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/free_funcs.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/internals.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/internals_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format/parsing.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/include/boost/format.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/lib/cmake/boost_format-1.86.0/boost_format-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/lib/cmake/boost_format-1.86.0/boost_format-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-format_x64-windows/lib/cmake/boost_format-1.86.0/boost_format-config-version.cmake
+

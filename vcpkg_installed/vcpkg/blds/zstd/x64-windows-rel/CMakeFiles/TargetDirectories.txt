@@ -1,0 +1,13 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/CMakeFiles/clean-all.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/CMakeFiles/install.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/CMakeFiles/install/local.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/libzstd_shared.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/uninstall.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/edit_cache.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/rebuild_cache.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/list_install_components.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/install.dir
+D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/x64-windows-rel/lib/CMakeFiles/install/local.dir

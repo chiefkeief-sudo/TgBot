@@ -1,0 +1,3 @@
+set CC_FOR_TARGET "compile cl.exe"
+set CXX_FOR_TARGET "compile cl.exe"
+set compiler_vendor "microsoft"

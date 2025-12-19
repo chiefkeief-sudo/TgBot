@@ -1,0 +1,7 @@
+Package: boost-msm
+Version: 1.86.0
+Depends: boost-any, boost-assert, boost-bind, boost-circular-buffer, boost-cmake, boost-config, boost-core, boost-function, boost-fusion, boost-headers, boost-mpl, boost-parameter, boost-phoenix, boost-preprocessor, boost-proto, boost-serialization, boost-tuple, boost-type-index, boost-type-traits, boost-typeof
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 5585fdacb10cc820ac4b69d439ea8605e73277be2b9703250610047dcfe0b6b3
+Description: Boost msm module

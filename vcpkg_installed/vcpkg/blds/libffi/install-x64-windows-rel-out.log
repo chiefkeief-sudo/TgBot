@@ -1,0 +1,153 @@
+Makefile:1414: update target 'install-recursive' due to: target is .PHONY
+fail=; \
+if (target_option=k; case ${target_option-} in ?) ;; *) echo "am__make_running_with_option: internal error: invalid" "target option '${target_option-}' specified" >&2; exit 1;; esac; has_opt=no; sane_makeflags=$MAKEFLAGS; if { if test -z '0'; then false; elif test -n 'x86_64-pc-msys'; then true; elif test -n '4.4.1' && test -n '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel'; then true; else false; fi; }; then sane_makeflags=$MFLAGS; else case $MAKEFLAGS in *\\[\ \	]*) bs=\\; sane_makeflags=`printf '%s\n' "$MAKEFLAGS" | sed "s/$bs$bs[$bs $bs	]*//g"`;; esac; fi; skip_next=no; strip_trailopt () { flg=`printf '%s\n' "$flg" | sed "s/$1.*$//"`; }; for flg in $sane_makeflags; do test $skip_next = yes && { skip_next=no; continue; }; case $flg in *=*|--*) continue;; -*I) strip_trailopt 'I'; skip_next=yes;; -*I?*) strip_trailopt 'I';; -*O) strip_trailopt 'O'; skip_next=yes;; -*O?*) strip_trailopt 'O';; -*l) strip_trailopt 'l'; skip_next=yes;; -*l?*) strip_trailopt 'l';; -[dEDm]) skip_next=yes;; -[JT]) skip_next=yes;; esac; case $flg in *$target_option*) has_opt=yes; break;; esac; done; test $has_opt = yes); then \
+  failcom='fail=yes'; \
+else \
+  failcom='exit 1'; \
+fi; \
+dot_seen=no; \
+target=`echo install-recursive | sed s/-recursive//`; \
+case "install-recursive" in \
+  distclean-* | maintainer-clean-*) list='include testsuite man doc' ;; \
+  *) list='include testsuite man ' ;; \
+esac; \
+for subdir in $list; do \
+  echo "Making $target in $subdir"; \
+  if test "$subdir" = "."; then \
+    dot_seen=yes; \
+    local_target="$target-am"; \
+  else \
+    local_target="$target"; \
+  fi; \
+  (CDPATH="${ZSH_VERSION+.}:" && cd $subdir && /usr/bin/make  $local_target) \
+  || eval $failcom; \
+done; \
+if test "$dot_seen" = "no"; then \
+  /usr/bin/make  "$target-am" || exit 1; \
+fi; test -z "$fail"
+Making install in include
+make[1]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/include'
+Makefile:497: update target 'install-am' due to: target is .PHONY
+/usr/bin/make  install-exec-am install-data-am
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/include'
+make[2]: Nothing to be done for 'install-exec-am'.
+Makefile:379: update target 'install-nodist_includeHEADERS' due to: target is .PHONY
+:
+list='ffi.h ffitarget.h'; test -n "/D/TelegramBot/vcpkg_installed/x64-windows/include" || list=; \
+if test -n "$list"; then \
+  echo " /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/include'"; \
+  /usr/bin/mkdir -p "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/include" || exit 1; \
+fi; \
+for p in $list; do \
+  if test -f "$p"; then d=; else d=".././../src/libffi-3-5867c437e9.clean/include/"; fi; \
+  echo "$d$p"; \
+done | sed '$!N;$!N;$!N;$!N;$!N;$!N;$!N;s/\n/ /g' | sed '$!N;$!N;$!N;$!N;s/\n/ /g' | \
+while read files; do \
+  echo " /usr/bin/install -c -m 644 $files '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/include'"; \
+  /usr/bin/install -c -m 644 $files "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/include" || exit $?; \
+done
+ /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/include'
+ /usr/bin/install -c -m 644 ffi.h ffitarget.h '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/include'
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/include'
+make[1]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/include'
+Making install in testsuite
+make[1]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/testsuite'
+Makefile:505: update target 'install-am' due to: target is .PHONY
+/usr/bin/make  install-exec-am install-data-am
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/testsuite'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/testsuite'
+make[1]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/testsuite'
+Making install in man
+make[1]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/man'
+Makefile:453: update target 'install-am' due to: target is .PHONY
+/usr/bin/make  install-exec-am install-data-am
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/man'
+make[2]: Nothing to be done for 'install-exec-am'.
+Makefile:359: update target 'install-man3' due to: target is .PHONY
+:
+list1=''; \
+list2='ffi.3 ffi_call.3 ffi_prep_cif.3 ffi_prep_cif_var.3'; \
+test -n "/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3" \
+  && test -n "`echo $list1$list2`" \
+  || exit 0; \
+echo " /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3'"; \
+/usr/bin/mkdir -p "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3" || exit 1; \
+{ for i in $list1; do echo "$i"; done;  \
+if test -n "$list2"; then \
+  for i in $list2; do echo "$i"; done \
+    | sed -n '/\.3[a-z]*$/p'; \
+fi; \
+} | while read p; do \
+  if test -f $p; then d=; else d=".././../src/libffi-3-5867c437e9.clean/man/"; fi; \
+  echo "$d$p"; echo "$p"; \
+done | \
+sed -e 'n;s,.*/,,;p;h;s,.*\.,,;s,^[^3][0-9a-z]*$,3,;x' \
+      -e 's,\.[0-9a-z]*$,,;s,x,x,;G;s,\n,.,' | \
+sed 'N;N;s,\n, ,g' | { \
+list=; while read file base inst; do \
+  if test "$base" = "$inst"; then list="$list $file"; else \
+    echo " /usr/bin/install -c -m 644 '$file' '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3/$inst'"; \
+    /usr/bin/install -c -m 644 "$file" "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3/$inst" || exit $?; \
+  fi; \
+done; \
+for i in $list; do echo "$i"; done | sed '$!N;$!N;$!N;$!N;$!N;$!N;$!N;s/\n/ /g' | sed '$!N;$!N;$!N;$!N;s/\n/ /g' | \
+while read files; do \
+  test -z "$files" || { \
+    echo " /usr/bin/install -c -m 644 $files '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3'"; \
+    /usr/bin/install -c -m 644 $files "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3" || exit $?; }; \
+done; }
+ /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3'
+ /usr/bin/install -c -m 644 .././../src/libffi-3-5867c437e9.clean/man/ffi.3 .././../src/libffi-3-5867c437e9.clean/man/ffi_call.3 .././../src/libffi-3-5867c437e9.clean/man/ffi_prep_cif.3 .././../src/libffi-3-5867c437e9.clean/man/ffi_prep_cif_var.3 '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/share/libffi/man3'
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/man'
+make[1]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel/man'
+make[1]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel'
+Makefile:666: update target 'fficonfig.h' due to: stamp-h1
+test -f fficonfig.h || rm -f stamp-h1
+test -f fficonfig.h || /usr/bin/make  stamp-h1
+Makefile:1726: update target 'install-am' due to: target is .PHONY
+/usr/bin/make  install-exec-am install-data-am
+make[2]: Entering directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel'
+Makefile:694: update target 'install-toolexeclibLTLIBRARIES' due to: target is .PHONY
+:
+list='libffi.la'; test -n "/D/TelegramBot/vcpkg_installed/x64-windows/lib" || list=; \
+list2=; for p in $list; do \
+  if test -f $p; then \
+    list2="$list2 $p"; \
+  else :; fi; \
+done; \
+test -z "$list2" || { \
+  echo " /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib'"; \
+  /usr/bin/mkdir -p "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib" || exit 1; \
+  echo " /bin/sh ./libtool   --mode=install /usr/bin/install -c  $list2 '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib'"; \
+  /bin/sh ./libtool   --mode=install /usr/bin/install -c  $list2 "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib"; \
+}
+Makefile:1386: update target 'install-pkgconfigDATA' due to: target is .PHONY
+:
+list='libffi.pc'; test -n "/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig" || list=; \
+if test -n "$list"; then \
+  echo " /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig'"; \
+  /usr/bin/mkdir -p "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig" || exit 1; \
+fi; \
+for p in $list; do \
+  if test -f "$p"; then d=; else d="./../src/libffi-3-5867c437e9.clean/"; fi; \
+  echo "$d$p"; \
+done | sed '$!N;$!N;$!N;$!N;$!N;$!N;$!N;s/\n/ /g' | sed '$!N;$!N;$!N;$!N;s/\n/ /g' | \
+while read files; do \
+  echo " /usr/bin/install -c -m 644 $files '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig'"; \
+  /usr/bin/install -c -m 644 $files "/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig" || exit $?; \
+done
+ /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig'
+ /usr/bin/mkdir -p '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libffi.la '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib'
+ /usr/bin/install -c -m 644 libffi.pc '/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/pkgconfig'
+libtool: install: /usr/bin/install -c .libs/ffi.lib /D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/ffi.lib
+libtool: install: base_file=`basename libffi.la`
+libtool: install:  dlpath=`/bin/sh 2>&1 -c '. .libs/'libffi.la'i; echo ffi-8.dll'`
+libtool: install:  dldir=/D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/`dirname ../bin/ffi-8.dll`
+libtool: install:  test -d /D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/../bin || mkdir -p /D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/../bin
+libtool: install:  /usr/bin/install -c .libs/ffi-8.dll /D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/../bin/ffi-8.dll
+libtool: install: /usr/bin/install -c .libs/libffi.lai /D/TelegramBot/vcpkg_installed/vcpkg/pkgs/libffi_x64-windows/D/TelegramBot/vcpkg_installed/x64-windows/lib/libffi.la
+make[2]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel'
+make[1]: Leaving directory '/d/TelegramBot/vcpkg_installed/vcpkg/blds/libffi/x64-windows-rel'

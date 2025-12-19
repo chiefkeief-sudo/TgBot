@@ -1,0 +1,41 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-typeof/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-typeof\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/constant.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/decltype.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/incr_registration_group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/msvc
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/msvc/typeof_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/bitset.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/complex.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/deque.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/fstream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/functional.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/iostream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/istream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/iterator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/list.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/locale.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/map.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/memory.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/ostream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/queue.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/set.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/sstream.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/stack.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/streambuf.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/string.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/utility.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/valarray.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/std/vector.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/include/boost/typeof/typeof.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/lib/cmake/boost_typeof-1.86.0/boost_typeof-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/lib/cmake/boost_typeof-1.86.0/boost_typeof-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-typeof_x64-windows/lib/cmake/boost_typeof-1.86.0/boost_typeof-config-version.cmake
+

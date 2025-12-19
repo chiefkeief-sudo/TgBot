@@ -1,0 +1,13 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/factory.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/forward_adapter.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/identity.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/lightweight_forward_adapter.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function/config.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function/detail/base.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function/detail/function_type.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/value_factory.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/lib/cmake/boost_functional-1.86.0/boost_functional-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/lib/cmake/boost_functional-1.86.0/boost_functional-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-functional_x64-windows/lib/cmake/boost_functional-1.86.0/boost_functional-config-version.cmake

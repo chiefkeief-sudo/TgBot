@@ -1,0 +1,57 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-redis/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-redis\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/adapt.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/detail/adapters.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/detail/response_traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/detail/result_traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/ignore.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/adapter/result.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/connection.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/connection_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/connector.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/handshaker.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/health_checker.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/helper.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/resolver.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/runner.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/detail/write.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/ignore.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/connection.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/error.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/ignore.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/logger.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/request.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/response.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/impl/runner.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/logger.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/operation.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/request.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/impl
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/impl/parser.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/impl/serialization.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/impl/type.ipp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/node.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/parser.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/serialization.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/resp3/type.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/response.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/src.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis/usage.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/include/boost/redis.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/lib/cmake/boost_redis-1.86.0/boost_redis-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/lib/cmake/boost_redis-1.86.0/boost_redis-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-redis_x64-windows/lib/cmake/boost_redis-1.86.0/boost_redis-config-version.cmake
+

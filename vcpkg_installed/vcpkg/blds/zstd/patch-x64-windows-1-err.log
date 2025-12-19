@@ -1,0 +1,3 @@
+Checking patch build/cmake/CMakeModules/AddZstdCompilationFlags.cmake...
+Hunk #1 succeeded at 76 (offset 22 lines).
+Applied patch build/cmake/CMakeModules/AddZstdCompilationFlags.cmake cleanly.

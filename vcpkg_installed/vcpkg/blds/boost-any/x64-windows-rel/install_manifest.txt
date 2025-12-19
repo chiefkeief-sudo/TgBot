@@ -1,0 +1,9 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/include/boost/any/bad_any_cast.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/include/boost/any/basic_any.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/include/boost/any/detail/placeholder.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/include/boost/any/fwd.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/include/boost/any/unique_any.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/include/boost/any.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/lib/cmake/boost_any-1.86.0/boost_any-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/lib/cmake/boost_any-1.86.0/boost_any-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-any_x64-windows/lib/cmake/boost_any-1.86.0/boost_any-config-version.cmake

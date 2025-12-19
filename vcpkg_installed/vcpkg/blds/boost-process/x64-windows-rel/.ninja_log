@@ -1,0 +1,21 @@
+# ninja log v6
+37	1968	7875495804699078	libs/process/CMakeFiles/boost_process.dir/src/detail/throw_error.cpp.obj	e19acc7d9d31cf76
+12	2020	7875495804450638	libs/process/CMakeFiles/boost_process.dir/src/detail/environment_posix.cpp.obj	e3f7b86ead83b223
+43	2394	7875495804754778	libs/process/CMakeFiles/boost_process.dir/src/detail/utf8.cpp.obj	427facc10beed3db
+20	2426	7875495804530658	libs/process/CMakeFiles/boost_process.dir/src/detail/environment_win.cpp.obj	c1cee478beb42b60
+25	2985	7875495804581682	libs/process/CMakeFiles/boost_process.dir/src/detail/last_error.cpp.obj	db39cdf2fe177f57
+55	3341	7875495804881831	libs/process/CMakeFiles/boost_process.dir/src/ext/cwd.cpp.obj	19d8107146a52114
+31	3663	7875495804636983	libs/process/CMakeFiles/boost_process.dir/src/detail/process_handle_windows.cpp.obj	e7e64a97070f4d68
+61	3754	7875495804937689	libs/process/CMakeFiles/boost_process.dir/src/ext/env.cpp.obj	92863511354a5034
+49	4001	7875495804817276	libs/process/CMakeFiles/boost_process.dir/src/ext/cmd.cpp.obj	70cd3190bc201682
+2394	4379	7875495828273833	libs/process/CMakeFiles/boost_process.dir/src/posix/close_handles.cpp.obj	25a0fb771b8d93b
+1997	5160	7875495824293373	libs/process/CMakeFiles/boost_process.dir/src/ext/exe.cpp.obj	9fcdcc574d7a8b8e
+2020	5222	7875495824526081	libs/process/CMakeFiles/boost_process.dir/src/ext/proc_info.cpp.obj	1bd9194f831ef9d3
+3720	5708	7875495841529132	libs/process/CMakeFiles/boost_process.dir/src/pid.cpp.obj	f423ed1d3ab2f446
+2427	5770	7875495828600844	libs/process/CMakeFiles/boost_process.dir/src/windows/default_launcher.cpp.obj	3b32ca81e4c8c047
+3343	5904	7875495837757001	libs/process/CMakeFiles/boost_process.dir/src/error.cpp.obj	b36143bc218c8f7f
+2985	6275	7875495834185828	libs/process/CMakeFiles/boost_process.dir/src/environment.cpp.obj	f54596442888e8d9
+3755	6399	7875495841883241	libs/process/CMakeFiles/boost_process.dir/src/shell.cpp.obj	8b8aacccc73049d1
+6399	6647	7875495870509880	stage/bin/boost_process-vc143-mt-x64-1_86.dll	b63712925b242438
+6399	6647	7875495870509880	stage/lib/boost_process-vc143-mt-x64-1_86.lib	b63712925b242438
+6648	6894	7875495870802383	CMakeFiles/install.util	2ceff0ae2c01d0c4

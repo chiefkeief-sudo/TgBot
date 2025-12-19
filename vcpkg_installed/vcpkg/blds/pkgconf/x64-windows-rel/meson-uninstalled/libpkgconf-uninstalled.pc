@@ -1,0 +1,11 @@
+prefix=D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/x64-windows-rel
+includedir=${prefix}/include
+libdir=${prefix}/lib
+srcdir=D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean
+
+Name: libpkgconf
+Description: a library for accessing and manipulating development framework configuration
+URL: http://github.com/pkgconf/pkgconf
+Version: 2.3.0
+Libs: -L${prefix} -lpkgconf
+Cflags: -I${prefix} -I${srcdir} -DPKGCONFIG_IS_NOT_STATIC

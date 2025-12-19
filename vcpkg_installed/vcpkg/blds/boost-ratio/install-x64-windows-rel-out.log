@@ -1,0 +1,22 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-ratio/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-ratio\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail/gcd_lcm.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail/is_evenly_divisible_by.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail/is_ratio.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/include.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/ratio.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/ratio_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/ratio_io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/lib/cmake/boost_ratio-1.86.0/boost_ratio-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/lib/cmake/boost_ratio-1.86.0/boost_ratio-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-ratio_x64-windows/lib/cmake/boost_ratio-1.86.0/boost_ratio-config-version.cmake
+

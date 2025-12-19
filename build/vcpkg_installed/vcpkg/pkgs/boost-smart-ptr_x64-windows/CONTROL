@@ -1,0 +1,7 @@
+Package: boost-smart-ptr
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-move, boost-static-assert, boost-throw-exception, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 81098de4290360c5c5a11e440dd18626fd5f33cbb6b24b7187d8275663c0d8e3
+Description: Boost smart_ptr module

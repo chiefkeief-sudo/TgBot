@@ -1,0 +1,12 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/include/expat_config.h
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/libexpat.lib
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/bin/libexpat.dll
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/include/expat.h
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/include/expat_external.h
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/pkgconfig/expat.pc
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/share/doc/expat/AUTHORS
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/share/doc/expat/changelog
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/cmake/expat-2.6.4/expat-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/cmake/expat-2.6.4/expat-config-version.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/cmake/expat-2.6.4/expat.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows/lib/cmake/expat-2.6.4/expat-release.cmake

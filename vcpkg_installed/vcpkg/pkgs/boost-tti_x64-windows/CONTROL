@@ -1,0 +1,7 @@
+Package: boost-tti
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-function-types, boost-headers, boost-mpl, boost-preprocessor, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0994ad576ec55b1e71ce23feb1144bb3fde8983bc9fe2e055b62af0c2ab7a35d
+Description: Boost tti module

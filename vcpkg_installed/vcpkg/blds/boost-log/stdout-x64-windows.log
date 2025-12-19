@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/log/archive/boost-1.86.0.tar.gz -> boostorg-log-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-log-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-log-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-log/src/ost-1.86.0-009aaf066c.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-log_x64-windows/share/boost-log/copyright
+-- Performing post-build validation

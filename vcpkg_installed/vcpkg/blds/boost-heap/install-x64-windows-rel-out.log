@@ -1,0 +1,29 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-heap/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-heap\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/binomial_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/heap_comparison.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/heap_node.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/ilog2.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/mutable_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/ordered_adaptor_iterator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/stable_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/detail/tree_iterator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/d_ary_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/fibonacci_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/heap_concepts.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/heap_merge.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/pairing_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/policies.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/priority_queue.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/include/boost/heap/skew_heap.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/lib/cmake/boost_heap-1.86.0/boost_heap-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/lib/cmake/boost_heap-1.86.0/boost_heap-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-heap_x64-windows/lib/cmake/boost_heap-1.86.0/boost_heap-config-version.cmake
+

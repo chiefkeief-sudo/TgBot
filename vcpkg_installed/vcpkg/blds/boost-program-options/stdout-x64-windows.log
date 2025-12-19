@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/program_options/archive/boost-1.86.0.tar.gz -> boostorg-program_options-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-program_options-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-program_options-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-program-options/src/ost-1.86.0-2c8370d72a.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-program-options_x64-windows/share/boost-program-options/copyright
+-- Performing post-build validation

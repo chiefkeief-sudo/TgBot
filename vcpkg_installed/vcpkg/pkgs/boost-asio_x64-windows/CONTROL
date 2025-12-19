@@ -1,0 +1,7 @@
+Package: boost-asio
+Version: 1.86.0
+Depends: boost-align, boost-assert, boost-cmake, boost-config, boost-context, boost-coroutine, boost-date-time, boost-headers, boost-system, boost-throw-exception
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 16c4a5cd389cc8c651fc3a052c737dc4bffb9bc28a349891572016b2ab6791e6
+Description: Boost asio module

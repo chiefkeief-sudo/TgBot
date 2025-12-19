@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/uuid/archive/boost-1.86.0.tar.gz -> boostorg-uuid-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-uuid-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-uuid-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-uuid/src/ost-1.86.0-80fb3aacc7.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-uuid_x64-windows/share/boost-uuid/copyright
+-- Performing post-build validation

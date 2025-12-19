@@ -1,0 +1,7 @@
+Package: boost-parameter-python
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers, boost-mpl, boost-parameter, boost-preprocessor, boost-python
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 1d9430bb4b332d426400cc6b6b6fecbc31bceb8c39efd9ed8738b2f1e5fe15fd
+Description: Boost parameter_python module

@@ -1,0 +1,22 @@
+# ninja log v6
+20	152	7875492147880825	pkgconf-5.dll.p/libpkgconf_bsdstubs.c.obj	6ffa47a23443212
+14	160	7875492147817558	pkgconf-5.dll.p/libpkgconf_audit.c.obj	66ced9eeff14af82
+27	447	7875492147942681	pkgconf-5.dll.p/libpkgconf_cache.c.obj	a1b26d4d59395a2c
+40	460	7875492148081687	pkgconf-5.dll.p/libpkgconf_dependency.c.obj	39f6259905b2c4c4
+34	473	7875492148018181	pkgconf-5.dll.p/libpkgconf_client.c.obj	d87ae97f30689f35
+46	484	7875492148144631	pkgconf-5.dll.p/libpkgconf_fileio.c.obj	64987619d781e1ca
+69	497	7875492148365837	pkgconf-5.dll.p/libpkgconf_path.c.obj	885532c2b21ef4ba
+62	508	7875492148294860	pkgconf-5.dll.p/libpkgconf_parser.c.obj	ea610dc9be67cf3d
+4	511	7875492147716482	pkgconf-5.dll.p/libpkgconf_argvsplit.c.obj	2773511bf59e2fb2
+54	515	7875492148224656	pkgconf-5.dll.p/libpkgconf_fragment.c.obj	195fc70ff20ac18c
+498	611	7875492152656380	pkgconf.exe.p/cli_renderer-msvc.c.obj	a9cee444873a8669
+484	622	7875492152525083	pkgconf.exe.p/cli_getopt_long.c.obj	f2a8eff97cc93432
+153	627	7875492149206206	pkgconf-5.dll.p/libpkgconf_personality.c.obj	1ef8bd7ecc22c9d5
+447	750	7875492152150327	pkgconf-5.dll.p/libpkgconf_queue.c.obj	a3496042878e0fbf
+461	775	7875492152294264	pkgconf-5.dll.p/libpkgconf_tuple.c.obj	3cc4239ce175924e
+160	783	7875492149283909	pkgconf-5.dll.p/libpkgconf_pkg.c.obj	a6d0c8e16b4dc911
+783	912	7875492155513411	pkgconf-5.dll	d0498953c05924a3
+473	944	7875492152411139	pkgconf.exe.p/cli_main.c.obj	ad14c6b12a5d81b3
+912	1134	7875492158904144	pkgconf-5.dll.p/pkgconf-5.dll.symbols	f43f703a90b4dbd2
+1134	1500	7875492159014887	pkgconf.exe	229129d84170f453
+1500	1884	7875492162682980	meson-internal__install	d655d79d7cec882e

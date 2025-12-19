@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/dynamic_bitset/archive/boost-1.86.0.tar.gz -> boostorg-dynamic_bitset-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-dynamic_bitset-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-dynamic_bitset-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-dynamic-bitset/src/ost-1.86.0-4441af5af6.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/share/boost-dynamic-bitset/copyright
+-- Performing post-build validation

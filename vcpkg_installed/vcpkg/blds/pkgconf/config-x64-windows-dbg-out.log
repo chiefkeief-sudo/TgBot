@@ -1,0 +1,49 @@
+The Meson build system
+Version: 1.6.1
+Source dir: D:\TelegramBot\vcpkg_installed\vcpkg\blds\pkgconf\src\conf-2.3.0-07e4a066bf.clean
+Build dir: D:\TelegramBot\vcpkg_installed\vcpkg\blds\pkgconf\x64-windows-dbg
+Build type: native build
+Project name: pkgconf
+Project version: 2.3.0
+C compiler for the host machine: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe -DWIN32 -D_WINDOWS -utf-8 -MP -MDd -Z7 -Ob0 -Od -RTC1 (msvc 19.44.35215 "Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.44.35215 для x64")
+C linker for the host machine: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe link 14.44.35215.0
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Compiler for C supports arguments -Wimplicit-function-declaration: NO 
+Compiler for C supports arguments -Wmisleading-indentation: NO 
+Checking for function "strlcat" : NO 
+Checking for function "strlcpy" : NO 
+Checking for function "strndup" : NO 
+Checking for function "strdup" : YES 
+Header "string.h" has symbol "strdup" : YES 
+Checking for function "strncasecmp" : NO 
+Checking for function "strcasecmp" : NO 
+Checking for function "reallocarray" : NO 
+Configuring config.h using configuration
+Did not find pkg-config by name 'pkg-config'
+Found pkg-config: NO
+Program kyua skipped: feature tests disabled
+Program atf-sh skipped: feature tests disabled
+Configuring Kyuafile using configuration
+Configuring Kyuafile using configuration
+Configuring test_env.sh using configuration
+..\src\conf-2.3.0-07e4a066bf.clean\tests\meson.build:2: WARNING: The variable(s) 'datarootdir', 'exec_prefix', 'prefix' in the input file 'tests\test_env.sh.in' are not present in the given configuration data.
+Build targets in project: 2
+
+pkgconf 2.3.0
+
+  User defined options
+    Native files         : D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/meson-x64-windows-dbg.log
+    backend              : ninja
+    cmake_prefix_path    : ['D:/TelegramBot/vcpkg_installed/x64-windows/debug','D:/TelegramBot/vcpkg_installed/x64-windows','D:/TelegramBot/vcpkg_installed/x64-windows/share']
+    debug                : true
+    includedir           : ../include
+    libdir               : lib
+    optimization         : plain
+    pkg_config_path      : ['D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/pkgconfig','D:/TelegramBot/vcpkg_installed/x64-windows/share/pkgconfig']
+    pkgconfig.relocatable: true
+    prefix               : D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug
+    tests                : disabled
+    wrap_mode            : nodownload
+
+Found ninja-1.12.1 at "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja\ninja.EXE"

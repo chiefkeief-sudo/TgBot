@@ -1,0 +1,7 @@
+Package: boost-coroutine2
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-context, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2a256ce5ee4253d4e4ed4c79f68d981455d98a7f9fd6ba712871619669b7952c
+Description: Boost coroutine2 module

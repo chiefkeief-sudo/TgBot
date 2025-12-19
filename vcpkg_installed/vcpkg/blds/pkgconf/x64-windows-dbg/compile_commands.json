@@ -1,0 +1,104 @@
+[
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_argvsplit.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_argvsplit.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/argvsplit.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/argvsplit.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_argvsplit.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_audit.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_audit.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/audit.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/audit.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_audit.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_bsdstubs.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_bsdstubs.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/bsdstubs.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/bsdstubs.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_bsdstubs.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_cache.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_cache.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/cache.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/cache.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_cache.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_client.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_client.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/client.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/client.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_client.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_dependency.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_dependency.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/dependency.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/dependency.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_dependency.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_fileio.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_fileio.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/fileio.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/fileio.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_fileio.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_fragment.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_fragment.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/fragment.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/fragment.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_fragment.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_parser.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_parser.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/parser.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/parser.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_parser.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_path.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_path.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/path.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/path.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_path.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_personality.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_personality.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/personality.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/personality.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_personality.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_pkg.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_pkg.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/pkg.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/pkg.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_pkg.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_queue.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_queue.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/queue.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/queue.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_queue.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf-5.dll.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DLIBPKGCONF_EXPORT\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf-5.dll.p\\libpkgconf_tuple.c.pdb\" /Fopkgconf-5.dll.p/libpkgconf_tuple.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/tuple.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/libpkgconf/tuple.c",
+    "output": "pkgconf-5.dll.p/libpkgconf_tuple.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf.exe.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf.exe.p\\cli_main.c.pdb\" /Fopkgconf.exe.p/cli_main.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/cli/main.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/cli/main.c",
+    "output": "pkgconf.exe.p/cli_main.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf.exe.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf.exe.p\\cli_getopt_long.c.pdb\" /Fopkgconf.exe.p/cli_getopt_long.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/cli/getopt_long.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/cli/getopt_long.c",
+    "output": "pkgconf.exe.p/cli_getopt_long.c.obj"
+  },
+  {
+    "directory": "D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\x64-windows-dbg",
+    "command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-Ipkgconf.exe.p\" \"-I.\" \"-I..\\src\\conf-2.3.0-07e4a066bf.clean\" \"-ID:/TelegramBot/vcpkg_installed/x64-windows/include\" \"/MDd\" \"/nologo\" \"/showIncludes\" \"/utf-8\" \"/W2\" \"/Zi\" \"-D_BSD_SOURCE\" \"-D_DEFAULT_SOURCE\" \"-nologo\" \"-DWIN32\" \"-D_WINDOWS\" \"-utf-8\" \"-MP\" \"-MDd\" \"-Z7\" \"-Ob0\" \"-Od\" \"-RTC1\" \"-DPKGCONFIG_IS_NOT_STATIC\" \"/Fdpkgconf.exe.p\\cli_renderer-msvc.c.pdb\" /Fopkgconf.exe.p/cli_renderer-msvc.c.obj \"/c\" ../src/conf-2.3.0-07e4a066bf.clean/cli/renderer-msvc.c",
+    "file": "../src/conf-2.3.0-07e4a066bf.clean/cli/renderer-msvc.c",
+    "output": "pkgconf.exe.p/cli_renderer-msvc.c.obj"
+  }
+]

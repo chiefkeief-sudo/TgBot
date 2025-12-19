@@ -1,0 +1,7 @@
+Package: boost-scope
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 89b6f320c29133ce20315f2ce71be06880991f9e59597923bdbfaea1b9399653
+Description: Boost scope module

@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/poly_collection/archive/boost-1.86.0.tar.gz -> boostorg-poly_collection-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-poly_collection-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-poly_collection-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-poly-collection/src/ost-1.86.0-4bb95cd759.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-poly-collection_x64-windows/share/boost-poly-collection/copyright
+-- Performing post-build validation

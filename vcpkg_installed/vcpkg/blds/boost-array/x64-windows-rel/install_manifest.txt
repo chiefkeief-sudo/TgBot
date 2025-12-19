@@ -1,0 +1,4 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-array_x64-windows/include/boost/array.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-array_x64-windows/lib/cmake/boost_array-1.86.0/boost_array-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-array_x64-windows/lib/cmake/boost_array-1.86.0/boost_array-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-array_x64-windows/lib/cmake/boost_array-1.86.0/boost_array-config-version.cmake

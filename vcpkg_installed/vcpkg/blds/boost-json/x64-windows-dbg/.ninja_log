@@ -1,0 +1,6 @@
+# ninja log v6
+7	45	7875497724471673	D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-json/x64-windows-dbg/CMakeFiles/cmake.verify_globs	2024c164534b6864
+47	2678	7875497724867158	libs/json/CMakeFiles/boost_json.dir/src/src.cpp.obj	472d8596fc12025d
+2681	3070	7875497754817086	stage/bin/boost_json-vc143-mt-gd-x64-1_86.dll	fad50e8cb281c6f9
+2681	3070	7875497754817086	stage/lib/boost_json-vc143-mt-gd-x64-1_86.lib	fad50e8cb281c6f9
+3070	4540	7875497755097135	CMakeFiles/install.util	2e15745000358c7f

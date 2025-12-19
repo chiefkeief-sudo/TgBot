@@ -1,0 +1,7 @@
+Package: boost-pfr
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 59e1012f69736294f3d53e4426fd8d12ab142c52e01b8874f0c4ee2303e8deeb
+Description: Boost pfr module

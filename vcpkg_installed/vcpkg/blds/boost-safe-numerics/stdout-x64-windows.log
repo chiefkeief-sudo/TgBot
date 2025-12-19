@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/safe_numerics/archive/boost-1.86.0.tar.gz -> boostorg-safe_numerics-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-safe_numerics-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-safe_numerics-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-safe-numerics/src/ost-1.86.0-9a4e19b013.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-safe-numerics_x64-windows/share/boost-safe-numerics/copyright
+-- Performing post-build validation

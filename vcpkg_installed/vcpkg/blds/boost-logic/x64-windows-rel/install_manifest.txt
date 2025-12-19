@@ -1,0 +1,6 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/include/boost/logic/tribool.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/include/boost/logic/tribool_fwd.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/include/boost/logic/tribool_io.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/lib/cmake/boost_logic-1.86.0/boost_logic-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/lib/cmake/boost_logic-1.86.0/boost_logic-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-logic_x64-windows/lib/cmake/boost_logic-1.86.0/boost_logic-config-version.cmake

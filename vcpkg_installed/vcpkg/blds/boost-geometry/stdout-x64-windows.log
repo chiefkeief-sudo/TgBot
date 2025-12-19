@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/geometry/archive/boost-1.86.0.tar.gz -> boostorg-geometry-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-geometry-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-geometry-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-geometry/src/ost-1.86.0-903f3ac73b.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-geometry_x64-windows/share/boost-geometry/copyright
+-- Performing post-build validation

@@ -1,0 +1,10 @@
+^D:\TELEGRAMBOT\BUILD\CMAKEFILES\A9A3886BD72005D77DC68493281B495A\GENERATE.STAMP.RULE
+setlocal
+D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -SD:/TelegramBot -BD:/TelegramBot/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/TelegramBot/build/TelegramBot.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

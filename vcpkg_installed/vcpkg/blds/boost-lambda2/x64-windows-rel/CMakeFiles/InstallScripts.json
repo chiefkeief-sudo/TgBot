@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-lambda2/x64-windows-rel/cmake_install.cmake",
+		"D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-lambda2/x64-windows-rel/libs/lambda2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

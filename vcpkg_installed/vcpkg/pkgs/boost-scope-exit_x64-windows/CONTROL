@@ -1,0 +1,7 @@
+Package: boost-scope-exit
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-function, boost-headers, boost-preprocessor, boost-type-traits, boost-typeof
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e603f5c701e410375e64661d7d392d76f81061d72caf3ddc70136de06bd3986f
+Description: Boost scope_exit module

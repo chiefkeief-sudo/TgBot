@@ -1,0 +1,11 @@
+Downloading https://github.com/boostorg/math/archive/boost-1.86.0.tar.gz -> boostorg-math-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-math-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-math-boost-1.86.0.tar.gz
+-- Applying patch build-old-libs.patch
+-- Applying patch opt-random.diff
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-math/src/ost-1.86.0-aeee076d2c.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-math_x64-windows/share/boost-math/copyright
+-- Performing post-build validation

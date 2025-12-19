@@ -1,0 +1,16 @@
+[options]
+tests = disabled
+optimization = plain
+debug = true
+cmake_prefix_path = ['D:/TelegramBot/vcpkg_installed/x64-windows/debug','D:/TelegramBot/vcpkg_installed/x64-windows','D:/TelegramBot/vcpkg_installed/x64-windows/share']
+prefix = D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/pkgconf_x64-windows/debug
+includedir = ../include
+libdir = lib
+backend = ninja
+wrap_mode = nodownload
+pkgconfig.relocatable = True
+pkg_config_path = ['D:/TelegramBot/vcpkg_installed/x64-windows/debug/lib/pkgconfig','D:/TelegramBot/vcpkg_installed/x64-windows/share/pkgconfig']
+
+[properties]
+native_file = ['D:\\TelegramBot\\vcpkg_installed\\vcpkg\\blds\\pkgconf\\meson-x64-windows-dbg.log']
+

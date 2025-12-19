@@ -1,0 +1,7 @@
+Package: boost-ratio
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: fb158466562c03be4da539daf1fc7d53c1cc3e857c30ff02a83846fd772cb248
+Description: Boost ratio module

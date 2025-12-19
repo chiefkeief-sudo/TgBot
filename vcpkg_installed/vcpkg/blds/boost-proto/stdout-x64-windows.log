@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/proto/archive/boost-1.86.0.tar.gz -> boostorg-proto-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-proto-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-proto-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-proto/src/ost-1.86.0-27967caea4.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-proto_x64-windows/share/boost-proto/copyright
+-- Performing post-build validation

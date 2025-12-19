@@ -1,0 +1,7 @@
+Package: boost-leaf
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c26183ef49006390f69191896f7b6eb7455602618804a4b014dff47e5471d697
+Description: Boost leaf module

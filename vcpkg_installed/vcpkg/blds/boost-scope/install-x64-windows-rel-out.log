@@ -1,0 +1,41 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-scope/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-scope\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/defer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/compact_storage.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/footer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/header.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/is_nonnull_default_constructible.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/is_not_like.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/move_or_copy_assign_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/move_or_copy_construct_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/conjunction.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/disjunction.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/is_final.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/is_invocable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/is_nothrow_invocable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/is_nothrow_swappable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/is_swappable.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/detail/type_traits/negation.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/error_code_checker.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/exception_checker.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/fd_deleter.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/fd_resource_traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/scope_exit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/scope_fail.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/scope_success.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/unique_fd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/unique_resource.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/include/boost/scope/unique_resource_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/lib/cmake/boost_scope-1.86.0/boost_scope-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/lib/cmake/boost_scope-1.86.0/boost_scope-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope_x64-windows/lib/cmake/boost_scope-1.86.0/boost_scope-config-version.cmake
+

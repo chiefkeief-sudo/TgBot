@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/TelegramBot/build/cmake_install.cmake",
+		"D:/TelegramBot/build/external/tgbot-cpp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

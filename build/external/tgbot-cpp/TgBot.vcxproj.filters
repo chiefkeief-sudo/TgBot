@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\Api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\Bot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\EventHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\TgException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\TgTypeParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\net\BoostHttpOnlySslClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\net\CurlHttpClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\net\HttpParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\net\TgLongPoll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\net\Url.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\tools\FileTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\tools\StringTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\BotCommandScope.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\ChatBoostSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\ChatMember.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\InlineQueryResult.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\InputFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\InputMedia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\InputMessageContent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\MenuButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\MessageOrigin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\PassportElementError.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TelegramBot\external\tgbot-cpp\src\types\ReactionType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\TelegramBot\external\tgbot-cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7EBE2BE9-A00E-36CB-9B5A-01B72D03721B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

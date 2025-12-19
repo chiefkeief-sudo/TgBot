@@ -1,0 +1,10 @@
+Downloading https://github.com/boostorg/random/archive/boost-1.86.0.tar.gz -> boostorg-random-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-random-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-random-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-random/src/ost-1.86.0-d0ab3c5008.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-random_x64-windows/share/boost-random/copyright
+-- Performing post-build validation

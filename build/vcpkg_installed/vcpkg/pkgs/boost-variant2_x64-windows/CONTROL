@@ -1,0 +1,7 @@
+Package: boost-variant2
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-headers, boost-mp11
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e5348b674c546cb21d494161549950d444f2386904c8554804ecbd7fa1e9d5fa
+Description: Boost variant2 module

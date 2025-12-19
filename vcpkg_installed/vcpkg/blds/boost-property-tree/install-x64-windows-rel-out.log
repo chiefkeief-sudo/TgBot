@@ -1,0 +1,49 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-property-tree/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-property-tree\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/exception_implementation.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/file_parser_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/info_parser_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/info_parser_read.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/info_parser_utils.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/info_parser_write.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/info_parser_writer_settings.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/ptree_implementation.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/ptree_utils.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/rapidxml.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/xml_parser_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/xml_parser_flags.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/xml_parser_read_rapidxml.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/xml_parser_utils.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/xml_parser_write.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/detail/xml_parser_writer_settings.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/exceptions.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/id_translator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/info_parser.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/ini_parser.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail/narrow_encoding.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail/parser.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail/read.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail/standard_callbacks.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail/wide_encoding.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/detail/write.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/json_parser.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/ptree.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/ptree_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/ptree_serialization.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/stream_translator.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/string_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/include/boost/property_tree/xml_parser.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/lib/cmake/boost_property_tree-1.86.0/boost_property_tree-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/lib/cmake/boost_property_tree-1.86.0/boost_property_tree-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-property-tree_x64-windows/lib/cmake/boost_property_tree-1.86.0/boost_property_tree-config-version.cmake
+

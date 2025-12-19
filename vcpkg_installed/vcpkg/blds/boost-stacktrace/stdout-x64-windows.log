@@ -1,0 +1,11 @@
+Downloading https://github.com/boostorg/stacktrace/archive/boost-1.86.0.tar.gz -> boostorg-stacktrace-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-stacktrace-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-stacktrace-boost-1.86.0.tar.gz
+-- Applying patch fix_config-check.diff
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-stacktrace/src/ost-1.86.0-a8e8257d6a.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stacktrace_x64-windows/share/boost-stacktrace/copyright
+-- Performing post-build validation

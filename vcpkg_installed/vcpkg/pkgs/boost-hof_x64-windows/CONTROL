@@ -1,0 +1,7 @@
+Package: boost-hof
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 44bbdb4aeab4b6e9ee20f517e86e1ff940df31a620aae233ca095c77e9ecbd9e
+Description: Boost hof module

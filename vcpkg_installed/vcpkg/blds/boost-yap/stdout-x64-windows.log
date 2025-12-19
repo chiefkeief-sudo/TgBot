@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/yap/archive/boost-1.86.0.tar.gz -> boostorg-yap-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-yap-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-yap-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-yap/src/ost-1.86.0-e89d83dbd4.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-yap_x64-windows/share/boost-yap/copyright
+-- Performing post-build validation

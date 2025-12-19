@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/beast/archive/boost-1.86.0.tar.gz -> boostorg-beast-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-beast-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-beast-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-beast/src/ost-1.86.0-9132879fab.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-beast_x64-windows/share/boost-beast/copyright
+-- Performing post-build validation

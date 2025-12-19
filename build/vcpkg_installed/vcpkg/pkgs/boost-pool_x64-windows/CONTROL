@@ -1,0 +1,7 @@
+Package: boost-pool
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-headers, boost-integer, boost-throw-exception, boost-type-traits, boost-winapi
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6f42607bb38041c682273e062c700263c22dd4370937704c8682dbd73ffba313
+Description: Boost pool module

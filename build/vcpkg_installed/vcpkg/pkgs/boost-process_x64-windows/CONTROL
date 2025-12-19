@@ -1,0 +1,7 @@
+Package: boost-process
+Version: 1.86.0
+Depends: boost-algorithm, boost-asio, boost-assert, boost-cmake, boost-config, boost-core, boost-filesystem, boost-fusion, boost-headers, boost-io, boost-iterator, boost-move, boost-optional, boost-system, boost-throw-exception, boost-tokenizer, boost-type-index, boost-type-traits, boost-utility, boost-winapi
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d01a67ad81fe06063b8bf2ddfd9b9fdcc5820469b7465e5edfd3d20ea5e3c65e
+Description: Boost process module

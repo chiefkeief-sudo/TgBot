@@ -1,0 +1,7 @@
+Package: boost-json
+Version: 1.86.0
+Depends: boost-align, boost-assert, boost-cmake, boost-config, boost-container, boost-container-hash, boost-core, boost-describe, boost-endian, boost-headers, boost-mp11, boost-static-assert, boost-system, boost-throw-exception
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 361fac83b2054a8a6ce0a4e5c4d7df33342050acff2435cbff3d2bbfcf752e31
+Description: Boost json module

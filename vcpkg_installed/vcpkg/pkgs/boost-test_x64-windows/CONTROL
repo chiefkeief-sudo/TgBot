@@ -1,0 +1,7 @@
+Package: boost-test
+Version: 1.86.0
+Depends: boost-algorithm, boost-assert, boost-bind, boost-cmake, boost-config, boost-core, boost-detail, boost-exception, boost-function, boost-headers, boost-io, boost-iterator, boost-mpl, boost-numeric-conversion, boost-optional, boost-preprocessor, boost-smart-ptr, boost-static-assert, boost-type-traits, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 025829afcf82137e9fc5dfd821ee448f0c033a9de10765864e8e75209106a0e3
+Description: Boost test module

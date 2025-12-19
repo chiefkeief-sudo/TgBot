@@ -1,0 +1,56 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-interval/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-interval\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/arith.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/arith2.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/arith3.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/checking.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare/certain.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare/explicit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare/lexicographic.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare/possible.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare/set.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare/tribool.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/compare.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/constants.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/alpha_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/bcc_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/bugs.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/c99sub_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/c99_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/division.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/ia64_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/interval_prototype.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/msvc_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/ppc_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/sparc_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/test_input.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/x86gcc_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/detail/x86_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/ext
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/ext/integer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/ext/x86_fast_rounding_control.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/hw_rounding.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/interval.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/limits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/policies.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/rounded_arith.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/rounded_transc.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/rounding.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/transc.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/utility.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval/utility_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/include/boost/numeric/interval.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/lib/cmake/boost_numeric_interval-1.86.0/boost_numeric_interval-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/lib/cmake/boost_numeric_interval-1.86.0/boost_numeric_interval-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-interval_x64-windows/lib/cmake/boost_numeric_interval-1.86.0/boost_numeric_interval-config-version.cmake
+

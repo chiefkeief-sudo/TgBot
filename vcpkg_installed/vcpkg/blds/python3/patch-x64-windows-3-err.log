@@ -1,0 +1,3 @@
+Checking patch PCbuild/pythoncore.vcxproj...
+Hunk #1 succeeded at 602 (offset 37 lines).
+Applied patch PCbuild/pythoncore.vcxproj cleanly.

@@ -1,0 +1,5 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/lib/bz2.lib
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/bin/bz2.dll
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/tools/bzip2/bzip2.exe
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/tools/bzip2/bzip2recover.exe
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows/include/bzlib.h

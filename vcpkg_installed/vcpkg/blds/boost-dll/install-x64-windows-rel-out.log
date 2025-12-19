@@ -1,0 +1,45 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-dll/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-dll\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/alias.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/aggressive_ptr_cast.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/ctor_dtor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/demangling
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/demangling/demangle_symbol.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/demangling/itanium.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/demangling/mangled_storage_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/demangling/msvc.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/elf_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/get_mem_fn_type.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/import_mangled_helpers.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/macho_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/pe_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/posix
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/posix/path_from_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/posix/program_location_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/posix/shared_library_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/system_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/type_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/windows
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/windows/path_from_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/detail/windows/shared_library_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/import.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/import_class.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/import_mangled.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/library_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/runtime_symbol_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/shared_library.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/shared_library_load_mode.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll/smart_library.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/include/boost/dll.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/lib/cmake/boost_dll-1.86.0/boost_dll-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/lib/cmake/boost_dll-1.86.0/boost_dll-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dll_x64-windows/lib/cmake/boost_dll-1.86.0/boost_dll-config-version.cmake
+

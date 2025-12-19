@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/lambda2/archive/boost-1.86.0.tar.gz -> boostorg-lambda2-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-lambda2-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-lambda2-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-lambda2/src/ost-1.86.0-5d376e09c0.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lambda2_x64-windows/share/boost-lambda2/copyright
+-- Performing post-build validation

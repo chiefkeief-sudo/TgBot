@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-charconv/x64-windows-dbg/libs/charconv/CMakeFiles/boost_charconv.dir/embed.manifest"

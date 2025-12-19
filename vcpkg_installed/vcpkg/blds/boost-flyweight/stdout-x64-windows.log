@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/flyweight/archive/boost-1.86.0.tar.gz -> boostorg-flyweight-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-flyweight-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-flyweight-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-flyweight/src/ost-1.86.0-6a1a182f9a.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-flyweight_x64-windows/share/boost-flyweight/copyright
+-- Performing post-build validation

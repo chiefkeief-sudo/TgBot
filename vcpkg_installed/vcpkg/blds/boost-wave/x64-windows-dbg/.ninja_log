@@ -1,0 +1,16 @@
+# ninja log v6
+19	1093	7875482078953636	libs/wave/CMakeFiles/boost_wave.dir/src/token_ids.cpp.obj	e63aa1c7e8a8caaa
+1262	2433	7875482091374415	libs/wave/CMakeFiles/boost_wave.dir/src/wave_config_constant.cpp.obj	c8dfd87446c4c333
+48	3516	7875482079240637	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_predef_macros.cpp.obj	e80c9baafd2bab91
+2433	4218	7875482103094824	libs/wave/CMakeFiles/boost_wave.dir/src/cpplexer/re2clex/aq.cpp.obj	3b99f70cb2e032f6
+25	4484	7875482079006929	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_defined_grammar.cpp.obj	70ed532d2c21c196
+42	4731	7875482079175600	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_has_include_grammar.cpp.obj	6378dd082d9a602f
+30	4880	7875482079060322	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_cpp_literalgrs.cpp.obj	d1b475b8f4945aa4
+60	5053	7875482079362953	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_cpp_grammar.cpp.obj	82171209ce0e2c86
+3526	5111	7875482114014127	libs/wave/CMakeFiles/boost_wave.dir/src/cpplexer/re2clex/cpp_re.cpp.obj	2f6fa846362c8d40
+11	5515	7875482078873368	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_re2c_lexer.cpp.obj	2a5720536537d772
+54	5555	7875482079294958	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_re2c_lexer_str.cpp.obj	19074044f87e35aa
+36	5627	7875482079120946	libs/wave/CMakeFiles/boost_wave.dir/src/instantiate_cpp_exprgrammar.cpp.obj	47823daf52a060f4
+5628	6885	7875482146585724	stage/bin/boost_wave-vc143-mt-gd-x64-1_86.dll	823ae72535c01aab
+5628	6885	7875482146585724	stage/lib/boost_wave-vc143-mt-gd-x64-1_86.lib	823ae72535c01aab
+6886	7967	7875482147619419	CMakeFiles/install.util	320662b006b77ed8

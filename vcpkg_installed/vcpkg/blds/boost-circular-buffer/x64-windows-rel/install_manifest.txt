@@ -1,0 +1,9 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/include/boost/circular_buffer/base.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/include/boost/circular_buffer/debug.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/include/boost/circular_buffer/details.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/include/boost/circular_buffer/space_optimized.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/include/boost/circular_buffer.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/include/boost/circular_buffer_fwd.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/lib/cmake/boost_circular_buffer-1.86.0/boost_circular_buffer-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/lib/cmake/boost_circular_buffer-1.86.0/boost_circular_buffer-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-circular-buffer_x64-windows/lib/cmake/boost_circular_buffer-1.86.0/boost_circular_buffer-config-version.cmake

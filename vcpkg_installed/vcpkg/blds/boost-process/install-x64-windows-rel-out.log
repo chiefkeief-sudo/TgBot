@@ -1,0 +1,279 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-process/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[1/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\detail\throw_error.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\detail\throw_error.cpp
+[2/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\detail\environment_posix.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\detail\environment_posix.cpp
+[3/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\detail\utf8.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\detail\utf8.cpp
+[4/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\detail\environment_win.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\detail\environment_win.cpp
+[5/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\detail\last_error.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\detail\last_error.cpp
+[6/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\ext\cwd.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\ext\cwd.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[7/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\detail\process_handle_windows.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\detail\process_handle_windows.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[8/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\ext\env.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\ext\env.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[9/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\ext\cmd.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\ext\cmd.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[10/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\posix\close_handles.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\posix\close_handles.cpp
+[11/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\ext\exe.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\ext\exe.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[12/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\ext\proc_info.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\ext\proc_info.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[13/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\pid.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\pid.cpp
+[14/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\windows\default_launcher.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\windows\default_launcher.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[15/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\error.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\error.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[16/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\environment.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\environment.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[17/19] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK="" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB="" -DBOOST_COROUTINES_DYN_LINK -DBOOST_COROUTINE_DYN_LINK -DBOOST_COROUTINE_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK=1 -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROCESS_DYN_LINK -DBOOST_PROCESS_SOURCE=1 -Dboost_process_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\process\CMakeFiles\boost_process.dir\src\shell.cpp.obj /Fdlibs\process\CMakeFiles\boost_process.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\src\ost-1.86.0-efa6fa8b81.clean\libs\process\src\shell.cpp
+Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+- add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+- add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+[18/19] C:\WINDOWS\system32\cmd.exe /C "cd . && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -E vs_link_dll --msvc-ver=1944 --intdir=libs\process\CMakeFiles\boost_process.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\link.exe  libs\process\CMakeFiles\boost_process.dir\src\detail\environment_posix.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\detail\environment_win.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\detail\last_error.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\detail\process_handle_windows.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\detail\throw_error.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\detail\utf8.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\ext\cmd.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\ext\cwd.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\ext\env.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\ext\exe.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\ext\proc_info.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\posix\close_handles.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\windows\default_launcher.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\environment.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\error.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\pid.cpp.obj libs\process\CMakeFiles\boost_process.dir\src\shell.cpp.obj  /out:stage\bin\boost_process-vc143-mt-x64-1_86.dll /implib:stage\lib\boost_process-vc143-mt-x64-1_86.lib /pdb:stage\bin\boost_process-vc143-mt-x64-1_86.pdb /dll /version:1.86 /machine:x64 /nologo /DEBUG /INCREMENTAL:NO /OPT:REF /OPT:ICF  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_filesystem-vc143-mt-x64-1_86.lib  ntdll.lib  shell32.lib  advapi32.lib  user32.lib  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_coroutine-vc143-mt-x64-1_86.lib  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_context-vc143-mt-x64-1_86.lib  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_date_time-vc143-mt-x64-1_86.lib  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_regex-vc143-mt-x64-1_86.lib  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_container-vc143-mt-x64-1_86.lib  D:\TelegramBot\vcpkg_installed\x64-windows\lib\boost_system-vc143-mt-x64-1_86.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[18/19] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-process\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/args.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/async.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/async_pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/async_system.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/child.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/env.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/environment.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/exception.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/exe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/extend.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/filesystem.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/locale.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/posix.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/search_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/shell.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/spawn.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/start_dir.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/system.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/args.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/async.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/async_pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/async_system.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/child.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/async_handler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/basic_cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/child_decl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/execute_impl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/handler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/handler_base.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/on_exit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/asio_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/async_handler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/async_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/async_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/async_pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/basic_cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/basic_pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/child_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/close_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/close_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/compare_handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/environment.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/env_init.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/exe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/executor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/fd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/file_descriptor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/file_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/file_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/group_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/group_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/handler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/io_context_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/is_running.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/null_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/null_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/on_exit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/pipe_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/pipe_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/search_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/shell_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/sigchld_service.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/signal.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/start_dir.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/terminate.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/use_vfork.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/wait_for_exit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/posix/wait_group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/throw_on_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/async.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/cmd_or_exe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/decl.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/env.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits/wchar_t.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/traits.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/used_handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/asio_fwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/async_handler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/async_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/async_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/async_pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/basic_cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/basic_pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/child_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/close_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/close_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/compare_handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/environment.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/env_init.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/executor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/file_descriptor.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/file_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/file_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/group_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/group_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/handler.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/handle_workaround.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/io_context_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/is_running.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/job_workaround.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/locale.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/null_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/null_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/on_exit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/pipe_in.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/pipe_out.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/search_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/shell_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/show_window.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/start_dir.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/terminate.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/wait_for_exit.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/detail/windows/wait_group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/env.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/environment.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/exception.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/exe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/extend.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/filesystem.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/group.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/io.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/locale.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/pipe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/posix.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/search_path.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/shell.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/spawn.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/start_dir.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/system.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1/windows.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v1.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/bind_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/cstring_ref.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/default_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/environment_posix.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/environment_win.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/last_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/process_handle_fd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/process_handle_fd_or_signal.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/process_handle_signal.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/process_handle_windows.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/throw_error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/throw_exception.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/detail/utf8.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/environment.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/error.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/execute.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/exit_code.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext/cmd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext/cwd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext/detail/proc_info.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext/env.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext/exe.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/ext.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/pid.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/popen.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/bind_fd.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/default_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/detail
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/detail/close_handles.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/fork_and_forget_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/pdfork_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/posix/vfork_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/process.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/process_handle.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/shell.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/start_dir.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/stdio.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows/as_user_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows/creation_flags.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows/default_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows/show_window.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows/with_logon_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2/windows/with_token_launcher.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/v2.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process/windows.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/include/boost/process.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/lib/boost_process-vc143-mt-x64-1_86.lib
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/bin/boost_process-vc143-mt-x64-1_86.dll
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/bin/boost_process-vc143-mt-x64-1_86.pdb
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/lib/cmake/boost_process-1.86.0/boost_process-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/lib/cmake/boost_process-1.86.0/boost_process-targets-release.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/lib/cmake/boost_process-1.86.0/boost_process-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-process_x64-windows/lib/cmake/boost_process-1.86.0/boost_process-config-version.cmake
+

@@ -1,0 +1,7 @@
+Package: boost-fiber
+Version: 1.86.0
+Depends: boost-algorithm, boost-assert, boost-cmake, boost-config, boost-context, boost-core, boost-filesystem, boost-format, boost-headers, boost-intrusive, boost-predef, boost-smart-ptr
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2c75e3409fb9f9881f81d016d2dabe8bc954d9d2afd81a36a71e2e1ec7a2ad6c
+Description: Boost fiber module

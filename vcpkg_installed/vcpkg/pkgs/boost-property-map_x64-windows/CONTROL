@@ -1,0 +1,7 @@
+Package: boost-property-map
+Version: 1.86.0
+Depends: boost-any, boost-assert, boost-cmake, boost-concept-check, boost-config, boost-core, boost-function, boost-headers, boost-iterator, boost-lexical-cast, boost-mpl, boost-smart-ptr, boost-static-assert, boost-throw-exception, boost-type-index, boost-type-traits, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d86bc51e57f04027c2fa3b6ba92595e1ea87fa829461a0b8ac795420d5fff5b8
+Description: Boost property_map module

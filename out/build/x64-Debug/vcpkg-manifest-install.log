@@ -1,0 +1,18 @@
+error: create_directories("C:\Windows\System32\vcpkg\buildtrees\versioning_\baselines\d5ec528843d29e3a52d745a64b469f810b2cedbf"): unknown error
+note: при извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbfпри извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbf
+при загрузке базовой версии для boost
+error: create_directories("C:\Windows\System32\vcpkg\buildtrees\versioning_\baselines\d5ec528843d29e3a52d745a64b469f810b2cedbf"): unknown error
+note: при извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbfпри извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbf
+при загрузке базовой версии для boost-property-tree
+error: create_directories("C:\Windows\System32\vcpkg\buildtrees\versioning_\baselines\d5ec528843d29e3a52d745a64b469f810b2cedbf"): unknown error
+note: при извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbfпри извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbf
+при загрузке базовой версии для boost-system
+error: create_directories("C:\Windows\System32\vcpkg\buildtrees\versioning_\baselines\d5ec528843d29e3a52d745a64b469f810b2cedbf"): unknown error
+note: при извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbfпри извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbf
+при загрузке базовой версии для curl
+error: create_directories("C:\Windows\System32\vcpkg\buildtrees\versioning_\baselines\d5ec528843d29e3a52d745a64b469f810b2cedbf"): unknown error
+note: при извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbfпри извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbf
+при загрузке базовой версии для openssl
+error: create_directories("C:\Windows\System32\vcpkg\buildtrees\versioning_\baselines\d5ec528843d29e3a52d745a64b469f810b2cedbf"): unknown error
+note: при извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbfпри извлечении базовых показателей d5ec528843d29e3a52d745a64b469f810b2cedbf
+при загрузке базовой версии для zlib

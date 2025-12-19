@@ -1,0 +1,7 @@
+Package: boost-crc
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6e92c99a05497d18030e20ca9fd2851b11e5be8889ac498ee567e714648a9402
+Description: Boost crc module

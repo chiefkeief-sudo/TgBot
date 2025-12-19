@@ -1,0 +1,7 @@
+Package: boost-unordered
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-container-hash, boost-core, boost-headers, boost-mp11, boost-predef, boost-throw-exception
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f06d3a651f6f839d7759aba02d18f6cf23a6730705ad456a1ec986ddef119db5
+Description: Boost unordered module

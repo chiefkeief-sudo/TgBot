@@ -1,0 +1,11 @@
+# ninja log v6
+10	1107	7875498030868063	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/file_descriptor.cpp.obj	2615b6e1f2814df9
+23	1479	7875498030999827	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/zlib.cpp.obj	e174cb885b9608c7
+33	1497	7875498031099877	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/bzip2.cpp.obj	6929a9a2fdb4af31
+39	1509	7875498031164943	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/lzma.cpp.obj	85f7fbf8d0efb8dd
+46	1519	7875498031225075	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/zstd.cpp.obj	13b22e2353269662
+28	1530	7875498031049864	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/gzip.cpp.obj	24497406d2d06194
+18	1637	7875498030948411	libs/iostreams/CMakeFiles/boost_iostreams.dir/src/mapped_file.cpp.obj	b1c8c22d7df9a002
+1638	2012	7875498050099302	stage/bin/boost_iostreams-vc143-mt-gd-x64-1_86.dll	851d2d9859a8f12b
+1638	2012	7875498050099302	stage/lib/boost_iostreams-vc143-mt-gd-x64-1_86.lib	851d2d9859a8f12b
+2013	3449	7875498050888693	CMakeFiles/install.util	c4e193e72f95b3a4

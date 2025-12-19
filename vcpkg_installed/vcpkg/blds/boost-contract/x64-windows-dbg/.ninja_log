@@ -1,0 +1,5 @@
+# ninja log v6
+10	1131	7875498951185945	libs/contract/CMakeFiles/boost_contract.dir/src/contract.cpp.obj	d550ef574afef7c2
+1136	1513	7875498965949138	stage/bin/boost_contract-vc143-mt-gd-x64-1_86.dll	1e41c3b6a37b8af9
+1136	1513	7875498965949138	stage/lib/boost_contract-vc143-mt-gd-x64-1_86.lib	1e41c3b6a37b8af9
+1513	2296	7875498966221272	CMakeFiles/install.util	28d2b1b3ae3aa3b5

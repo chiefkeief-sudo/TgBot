@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/hof/archive/boost-1.86.0.tar.gz -> boostorg-hof-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-hof-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-hof-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-hof/src/ost-1.86.0-9c915ab5c3.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-hof_x64-windows/share/boost-hof/copyright
+-- Performing post-build validation

@@ -1,0 +1,7 @@
+D:/TelegramBot/build/CMakeFiles/TelegramBot.dir
+D:/TelegramBot/build/CMakeFiles/INSTALL.dir
+D:/TelegramBot/build/CMakeFiles/ALL_BUILD.dir
+D:/TelegramBot/build/CMakeFiles/ZERO_CHECK.dir
+D:/TelegramBot/build/external/tgbot-cpp/CMakeFiles/TgBot.dir
+D:/TelegramBot/build/external/tgbot-cpp/CMakeFiles/INSTALL.dir
+D:/TelegramBot/build/external/tgbot-cpp/CMakeFiles/ALL_BUILD.dir

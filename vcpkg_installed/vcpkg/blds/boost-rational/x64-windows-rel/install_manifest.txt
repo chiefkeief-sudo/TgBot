@@ -1,0 +1,4 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-rational_x64-windows/include/boost/rational.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-rational_x64-windows/lib/cmake/boost_rational-1.86.0/boost_rational-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-rational_x64-windows/lib/cmake/boost_rational-1.86.0/boost_rational-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-rational_x64-windows/lib/cmake/boost_rational-1.86.0/boost_rational-config-version.cmake

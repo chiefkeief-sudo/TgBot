@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/static_assert/archive/boost-1.86.0.tar.gz -> boostorg-static_assert-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-static_assert-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-static_assert-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-static-assert/src/ost-1.86.0-e7e646c10a.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-static-assert_x64-windows/share/boost-static-assert/copyright
+-- Performing post-build validation

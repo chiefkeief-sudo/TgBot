@@ -1,0 +1,56 @@
+[33;1mVERBOSE: Resolving base path D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/tools/python3/DLLs/_elementtree.pyd...[0m
+[33;1mVERBOSE: Resolving D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/tools/python3/DLLs/_elementtree.pyd...[0m
+[33;1mVERBOSE:   KERNEL32.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\KERNEL32.dll not found[0m
+[33;1mVERBOSE:   python311.dll: already present[0m
+[33;1mVERBOSE: Resolving D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\tools\python3\DLLs\python311.dll...[0m
+[33;1mVERBOSE:   zlib1.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\zlib1.dll not found[0m
+[33;1mVERBOSE:   VERSION.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\VERSION.dll not found[0m
+[33;1mVERBOSE:   WS2_32.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\WS2_32.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-core-path-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-core-path-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   bcrypt.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\bcrypt.dll not found[0m
+[33;1mVERBOSE:   ADVAPI32.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\ADVAPI32.dll not found[0m
+[33;1mVERBOSE:   KERNEL32.dll: previously searched - Skip[0m
+[33;1mVERBOSE:   VCRUNTIME140.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\VCRUNTIME140.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-stdio-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-stdio-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-environment-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-environment-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-locale-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-locale-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-string-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-string-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-runtime-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-runtime-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-convert-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-convert-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-math-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-math-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-time-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-time-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-process-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-process-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-heap-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-heap-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-conio-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-conio-l1-1-0.dll not found[0m
+[33;1mVERBOSE:   api-ms-win-crt-filesystem-l1-1-0.dll: D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\bin\api-ms-win-crt-filesystem-l1-1-0.dll not found[0m
+[33;1mVERBOSE: Done Resolving D:\TelegramBot\vcpkg_installed\vcpkg\pkgs\python3_x64-windows\tools\python3\DLLs\python311.dll.[0m
+[33;1mVERBOSE:   VCRUNTIME140.dll: previously searched - Skip[0m
+[33;1mVERBOSE:   api-ms-win-crt-string-l1-1-0.dll: previously searched - Skip[0m
+[33;1mVERBOSE:   api-ms-win-crt-runtime-l1-1-0.dll: previously searched - Skip[0m
+[33;1mVERBOSE: Done Resolving D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/python3_x64-windows/tools/python3/DLLs/_elementtree.pyd.[0m
+[33;1mVERBOSE: 
+Name                           Value
+----                           -----
+api-ms-win-crt-stdio-l1-1-0.d… True
+WS2_32.dll                     True
+api-ms-win-crt-string-l1-1-0.… True
+VCRUNTIME140.dll               True
+api-ms-win-crt-time-l1-1-0.dll True
+api-ms-win-crt-process-l1-1-0… True
+KERNEL32.dll                   True
+bcrypt.dll                     True
+zlib1.dll                      True
+VERSION.dll                    True
+ADVAPI32.dll                   True
+api-ms-win-crt-convert-l1-1-0… True
+python311.dll                  True
+api-ms-win-crt-locale-l1-1-0.… True
+api-ms-win-crt-environment-l1… True
+api-ms-win-crt-runtime-l1-1-0… True
+api-ms-win-crt-heap-l1-1-0.dll True
+api-ms-win-crt-filesystem-l1-… True
+api-ms-win-crt-conio-l1-1-0.d… True
+api-ms-win-core-path-l1-1-0.d… True
+api-ms-win-crt-math-l1-1-0.dll True
+
+[0m

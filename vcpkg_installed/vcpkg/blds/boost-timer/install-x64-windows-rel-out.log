@@ -1,0 +1,24 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-timer/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[1/4] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_TIMER_DYN_LINK -DBOOST_TIMER_NO_LIB -DBOOST_TIMER_SOURCE -Dboost_timer_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-timer\src\ost-1.86.0-3e2a1f9a21.clean\libs\timer\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\timer\CMakeFiles\boost_timer.dir\src\auto_timers_construction.cpp.obj /Fdlibs\timer\CMakeFiles\boost_timer.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-timer\src\ost-1.86.0-3e2a1f9a21.clean\libs\timer\src\auto_timers_construction.cpp
+[2/4] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\cl.exe   /TP -DBOOST_TIMER_DYN_LINK -DBOOST_TIMER_NO_LIB -DBOOST_TIMER_SOURCE -Dboost_timer_EXPORTS -ID:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-timer\src\ost-1.86.0-3e2a1f9a21.clean\libs\timer\include -external:ID:\TelegramBot\vcpkg_installed\x64-windows\include -external:W0 /nologo /DWIN32 /D_WINDOWS /utf-8 /GR /EHsc /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7  -MD /showIncludes /Folibs\timer\CMakeFiles\boost_timer.dir\src\cpu_timer.cpp.obj /Fdlibs\timer\CMakeFiles\boost_timer.dir\ /FS -c D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-timer\src\ost-1.86.0-3e2a1f9a21.clean\libs\timer\src\cpu_timer.cpp
+[3/4] C:\WINDOWS\system32\cmd.exe /C "cd . && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -E vs_link_dll --msvc-ver=1944 --intdir=libs\timer\CMakeFiles\boost_timer.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\Hostx64\x64\link.exe  libs\timer\CMakeFiles\boost_timer.dir\src\auto_timers_construction.cpp.obj libs\timer\CMakeFiles\boost_timer.dir\src\cpu_timer.cpp.obj  /out:stage\bin\boost_timer-vc143-mt-x64-1_86.dll /implib:stage\lib\boost_timer-vc143-mt-x64-1_86.lib /pdb:stage\bin\boost_timer-vc143-mt-x64-1_86.pdb /dll /version:1.86 /machine:x64 /nologo /DEBUG /INCREMENTAL:NO /OPT:REF /OPT:ICF  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[3/4] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-timer\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost/progress.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost/timer
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost/timer/config.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost/timer/progress_display.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost/timer/timer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/include/boost/timer.hpp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/lib/boost_timer-vc143-mt-x64-1_86.lib
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/bin/boost_timer-vc143-mt-x64-1_86.dll
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/bin/boost_timer-vc143-mt-x64-1_86.pdb
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/lib/cmake/boost_timer-1.86.0/boost_timer-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/lib/cmake/boost_timer-1.86.0/boost_timer-targets-release.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/lib/cmake/boost_timer-1.86.0/boost_timer-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-timer_x64-windows/lib/cmake/boost_timer-1.86.0/boost_timer-config-version.cmake
+

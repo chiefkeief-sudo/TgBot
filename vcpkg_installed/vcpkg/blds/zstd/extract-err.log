@@ -1,0 +1,2 @@
+cmake -E tar: warning: skipping symbolic link "zstd-1.5.6/tests/cli-tests/bin/unzstd" -> "zstd".
+cmake -E tar: warning: skipping symbolic link "zstd-1.5.6/tests/cli-tests/bin/zstdcat" -> "zstd".

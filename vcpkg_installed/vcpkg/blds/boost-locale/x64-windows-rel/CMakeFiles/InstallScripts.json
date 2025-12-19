@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-locale/x64-windows-rel/cmake_install.cmake",
+		"D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-locale/x64-windows-rel/libs/locale/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

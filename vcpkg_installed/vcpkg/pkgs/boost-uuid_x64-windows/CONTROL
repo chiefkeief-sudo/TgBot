@@ -1,0 +1,7 @@
+Package: boost-uuid
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-headers, boost-throw-exception, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d240e90f9a0244db15151519e6d7b9c247c74de175bf5178dbed5d6cefa76a1d
+Description: Boost uuid module

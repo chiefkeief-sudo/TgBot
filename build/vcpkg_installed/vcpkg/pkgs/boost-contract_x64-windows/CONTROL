@@ -1,0 +1,7 @@
+Package: boost-contract
+Version: 1.86.0
+Depends: boost-any, boost-assert, boost-cmake, boost-config, boost-core, boost-exception, boost-function, boost-function-types, boost-headers, boost-mpl, boost-optional, boost-preprocessor, boost-smart-ptr, boost-static-assert, boost-thread, boost-type-traits, boost-typeof, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 5cf6cb90be7d93e9b74d0d20f6bf8f6dedc83f7f6fbdfc52f492821bac3ab3a3
+Description: Boost contract module

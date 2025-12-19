@@ -1,0 +1,18 @@
+Downloading https://github.com/facebook/zstd/archive/v1.5.6.tar.gz -> facebook-zstd-v1.5.6.tar.gz
+Successfully downloaded facebook-zstd-v1.5.6.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/facebook-zstd-v1.5.6.tar.gz
+-- Applying patch no-static-suffix.patch
+-- Applying patch fix-emscripten-and-clang-cl.patch
+-- Applying patch fix-windows-rc-compile.patch
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/zstd/src/v1.5.6-6d2acef635.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/zstd_x64-windows/lib/pkgconfig/libzstd.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.3.0-1-any.pkg.tar.zst
+-- Using cached msys2-msys2-runtime-3.5.4-2-x86_64.pkg.tar.zst
+-- Using msys root at C:/Users/Artem/AppData/Local/vcpkg/downloads/tools/msys2/21caed2f81ec917b
+-- Fixing pkgconfig file: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/zstd_x64-windows/debug/lib/pkgconfig/libzstd.pc
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/zstd_x64-windows/share/zstd/usage
+-- Performing post-build validation

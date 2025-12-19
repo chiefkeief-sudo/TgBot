@@ -1,0 +1,7 @@
+Package: boost-gil
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-concept-check, boost-config, boost-container-hash, boost-core, boost-headers, boost-integer, boost-iterator, boost-mp11, boost-preprocessor, boost-type-traits, boost-variant2
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 00bf0212276d958963c631348629742c0c0d46cad36cd99203882602a6b3b503
+Description: Boost gil module

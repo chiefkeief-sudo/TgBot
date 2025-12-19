@@ -1,0 +1,20 @@
+[
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/meson.build",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/meson_options.txt",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/libpkgconf/meson.build",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/libpkgconf/config.h.meson",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/Kyuafile.in",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/meson.build",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/Kyuafile.in",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/test_env.sh.in",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/basic.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/builtins.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/conflicts.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/framework.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/parser.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/provides.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/regress.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/requires.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/sysroot.sh",
+  "D:/TelegramBot/vcpkg_installed/vcpkg/blds/pkgconf/src/conf-2.3.0-07e4a066bf.clean/tests/version.sh"
+]

@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/stl_interfaces/archive/boost-1.86.0.tar.gz -> boostorg-stl_interfaces-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-stl_interfaces-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-stl_interfaces-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-stl-interfaces/src/ost-1.86.0-4a808692e0.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-stl-interfaces_x64-windows/share/boost-stl-interfaces/copyright
+-- Performing post-build validation

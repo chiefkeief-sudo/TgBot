@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/foreach/archive/boost-1.86.0.tar.gz -> boostorg-foreach-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-foreach-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-foreach-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-foreach/src/ost-1.86.0-9b6a3d28b5.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-foreach_x64-windows/share/boost-foreach/copyright
+-- Performing post-build validation

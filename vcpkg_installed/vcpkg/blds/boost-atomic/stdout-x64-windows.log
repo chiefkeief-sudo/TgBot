@@ -1,0 +1,11 @@
+Downloading https://github.com/boostorg/atomic/archive/boost-1.86.0.tar.gz -> boostorg-atomic-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-atomic-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-atomic-boost-1.86.0.tar.gz
+-- Applying patch fix-include.patch
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-atomic/src/ost-1.86.0-3ac6f9dddb.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-atomic_x64-windows/share/boost-atomic/copyright
+-- Performing post-build validation

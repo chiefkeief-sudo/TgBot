@@ -1,0 +1,15 @@
+Package: python3
+Version: 3.11.11
+Depends: vcpkg-get-python, vcpkg-msbuild, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d9a4bd6c42e45f3ff009a658e582b4908692f49bbfa53f45efaedddcce55f3c5
+Description: The Python programming language
+Default-Features: extensions
+
+Package: python3
+Feature: extensions
+Depends: bzip2, expat, libffi, liblzma, openssl, sqlite3
+Architecture: x64-windows
+Multi-Arch: same
+Description: Allow the build and usage of python extensions. On windows this requires python to be a dynamic library!

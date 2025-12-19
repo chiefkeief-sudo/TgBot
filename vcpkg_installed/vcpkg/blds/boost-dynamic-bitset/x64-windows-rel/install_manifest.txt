@@ -1,0 +1,10 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset/config.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset/detail/dynamic_bitset.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset/detail/lowest_bit.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset/dynamic_bitset.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset/serialization.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/include/boost/dynamic_bitset_fwd.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/lib/cmake/boost_dynamic_bitset-1.86.0/boost_dynamic_bitset-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/lib/cmake/boost_dynamic_bitset-1.86.0/boost_dynamic_bitset-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-dynamic-bitset_x64-windows/lib/cmake/boost_dynamic_bitset-1.86.0/boost_dynamic_bitset-config-version.cmake

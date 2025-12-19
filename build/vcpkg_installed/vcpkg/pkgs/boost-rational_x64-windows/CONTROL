@@ -1,0 +1,7 @@
+Package: boost-rational
+Version: 1.86.0
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-integer, boost-static-assert, boost-throw-exception, boost-type-traits, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e1cece001aa1f07389792b136ca12909e532f5d8a4befcc164e00a9f1d71d947
+Description: Boost rational module

@@ -1,0 +1,7 @@
+Package: boost-local-function
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-headers, boost-mpl, boost-preprocessor, boost-scope-exit, boost-type-traits, boost-typeof, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: aac4e83494f2bc1862de2ba4fc30b98b3e1ae5605901d830ab597bcf9b3c50d3
+Description: Boost local_function module

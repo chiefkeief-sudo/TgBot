@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/crc/archive/boost-1.86.0.tar.gz -> boostorg-crc-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-crc-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-crc-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-crc/src/ost-1.86.0-7d17db5f3f.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-crc_x64-windows/share/boost-crc/copyright
+-- Performing post-build validation

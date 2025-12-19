@@ -1,0 +1,5 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lambda2_x64-windows/include/boost/lambda2/lambda2.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lambda2_x64-windows/include/boost/lambda2.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lambda2_x64-windows/lib/cmake/boost_lambda2-1.86.0/boost_lambda2-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lambda2_x64-windows/lib/cmake/boost_lambda2-1.86.0/boost_lambda2-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-lambda2_x64-windows/lib/cmake/boost_lambda2-1.86.0/boost_lambda2-config-version.cmake

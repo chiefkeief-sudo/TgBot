@@ -1,0 +1,30 @@
+Change Dir: 'D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-compatibility/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j9 install
+[0/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\TelegramBot\vcpkg_installed\vcpkg\blds\boost-compatibility\x64-windows-rel && D:\Software\cmake-4.2.1-windows-x86_64\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cassert
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cctype
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cerrno
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cfloat
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/climits
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/clocale
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cmath
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/csetjmp
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/csignal
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cstdarg
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cstddef
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cstdio
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cstdlib
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cstring
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/ctime
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cwchar
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/include/boost/compatibility/cpp_c_headers/cwctype
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/lib/cmake/boost_compatibility-1.86.0/boost_compatibility-targets.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/lib/cmake/boost_compatibility-1.86.0/boost_compatibility-config.cmake
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-compatibility_x64-windows/lib/cmake/boost_compatibility-1.86.0/boost_compatibility-config-version.cmake
+

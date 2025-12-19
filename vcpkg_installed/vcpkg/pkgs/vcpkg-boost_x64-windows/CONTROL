@@ -1,0 +1,5 @@
+Package: vcpkg-boost
+Version: 2024-05-15
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c335feb866deae9a894a150d8fb7cac6c2c0c95b0ac2b802e1e903b953e218a2

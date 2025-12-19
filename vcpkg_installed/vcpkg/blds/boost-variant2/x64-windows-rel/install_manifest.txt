@@ -1,0 +1,5 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant2_x64-windows/include/boost/variant2/variant.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant2_x64-windows/include/boost/variant2.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant2_x64-windows/lib/cmake/boost_variant2-1.86.0/boost_variant2-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant2_x64-windows/lib/cmake/boost_variant2-1.86.0/boost_variant2-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-variant2_x64-windows/lib/cmake/boost_variant2-1.86.0/boost_variant2-config-version.cmake

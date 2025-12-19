@@ -1,0 +1,9 @@
+Downloading https://github.com/boostorg/exception/archive/boost-1.86.0.tar.gz -> boostorg-exception-boost-1.86.0.tar.gz
+Successfully downloaded boostorg-exception-boost-1.86.0.tar.gz
+-- Extracting source C:/Users/Artem/AppData/Local/vcpkg/downloads/boostorg-exception-boost-1.86.0.tar.gz
+-- Using source at D:/TelegramBot/vcpkg_installed/vcpkg/blds/boost-exception/src/ost-1.86.0-6fac1ea9e9.clean
+-- Found external ninja('1.12.1').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-exception_x64-windows/share/boost-exception/copyright
+-- Performing post-build validation

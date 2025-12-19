@@ -1,0 +1,13 @@
+prefix=D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/expat_x64-windows
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: expat
+Version: 2.6.4
+Description: expat XML parser
+URL: https://libexpat.github.io/
+Libs: -L${libdir} -llibexpat
+Libs.private: 
+Cflags: -I${includedir}
+Cflags.private: -DXML_STATIC

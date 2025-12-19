@@ -1,0 +1,7 @@
+Package: boost-hana
+Version: 1.86.0
+Depends: boost-cmake, boost-config, boost-core, boost-fusion, boost-headers, boost-mpl, boost-tuple
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 8223971579484738540a59ca639b03e68022c58874ef108e1fc75fc13489f690
+Description: Boost hana module

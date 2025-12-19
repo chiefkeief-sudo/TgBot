@@ -1,0 +1,4 @@
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope-exit_x64-windows/include/boost/scope_exit.hpp
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope-exit_x64-windows/lib/cmake/boost_scope_exit-1.86.0/boost_scope_exit-targets.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope-exit_x64-windows/lib/cmake/boost_scope_exit-1.86.0/boost_scope_exit-config.cmake
+D:/TelegramBot/vcpkg_installed/vcpkg/pkgs/boost-scope-exit_x64-windows/lib/cmake/boost_scope_exit-1.86.0/boost_scope_exit-config-version.cmake
